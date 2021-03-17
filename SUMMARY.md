@@ -4,5 +4,6 @@
 
 ## Raspberry Pi
 
-* [Untitled](raspberry-pi/untitled.md)
+* [Kiosk Mode](raspberry-pi/kiosk-mode/README.md)
+  * [Kiosk Mode Instructions](raspberry-pi/kiosk-mode/kiosk-mode-instructions.md)
 
