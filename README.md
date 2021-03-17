@@ -1,8 +1,8 @@
 ---
-description: 'Links to Important Docs'
+description: Links to Important Docs
 ---
 
-# Documentation Table of Contents
+# Table of Contents
 
 whats up dude
 
