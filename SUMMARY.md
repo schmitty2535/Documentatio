@@ -5,5 +5,6 @@
 ## Raspberry Pi
 
 * [Kiosk Mode](raspberry-pi/kiosk-mode/README.md)
-  * [schmitty2535/docs](raspberry-pi/kiosk-mode/kiosk-mode-instructions.md)
+  * [Kiosk Mode Instructions](raspberry-pi/kiosk-mode/kiosk-mode-instructions.md)
+  * [Untitled](raspberry-pi/kiosk-mode/untitled.md)
 

@@ -1,8 +1,15 @@
-# schmitty2535/docs
+# Kiosk Mode Instructions
 
 #### How to setup a RPI in Kiosk mode Link to Information: [https://www.wikihow.com/Execute-a-Script-at-Startup-on-the-Raspberry-Pi](https://www.wikihow.com/Execute-a-Script-at-Startup-on-the-Raspberry-Pi) [https://pimylifeup.com/raspberry-pi-kiosk/](https://pimylifeup.com/raspberry-pi-kiosk/)
 
-1. Enable VNC in raspi-config
+{% hint style="danger" %}
+
+{% endhint %}
+
+1. Enable VNC in raspi-config `sudo raspi-config`
+
+   \`\`
+
 2. Install xdotool and unclutter, xdotool: This tool will allow our bash script to execute key presses without anyone being on the device. Unclutter: This will enable us to hide the mouse from the display. sudo apt-get install xdotool unclutter sed
 3. Go to raspi-config and in boot options, click B1 "Desktop / CLI", then select option B4 "Desktop Autologin"
 4. Create your kiosk bash script by running the following
