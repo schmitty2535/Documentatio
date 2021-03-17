@@ -2,23 +2,32 @@
 
 #### How to setup a RPI in Kiosk mode Link to Information: [https://www.wikihow.com/Execute-a-Script-at-Startup-on-the-Raspberry-Pi](https://www.wikihow.com/Execute-a-Script-at-Startup-on-the-Raspberry-Pi) [https://pimylifeup.com/raspberry-pi-kiosk/](https://pimylifeup.com/raspberry-pi-kiosk/)
 
-{% hint style="danger" %}
+1. Connect to the Raspberry Pi using a keyboard and mouse and open up a terminal
 
+2. Enable VNC in raspi-config type  `sudo raspi-config`and select Interface Options followed by VNC and select "Yes" if its not already enabled.
+
+{% hint style="info" %}
+Install xdotool and unclutter, xdotool: This tool will allow our bash script to execute key presses without anyone being on the device. Unclutter: This will enable us to hide the mouse from the display.
 {% endhint %}
 
-1. Enable VNC in raspi-config `sudo raspi-config`
+3. Go to raspi-config and again and select boot options followed by "Desktop/CLI" and Enable Desktop Autologin
 
-   \`\`
 
-2. Install xdotool and unclutter, xdotool: This tool will allow our bash script to execute key presses without anyone being on the device. Unclutter: This will enable us to hide the mouse from the display. sudo apt-get install xdotool unclutter sed
-3. Go to raspi-config and in boot options, click B1 "Desktop / CLI", then select option B4 "Desktop Autologin"
-4. Create your kiosk bash script by running the following
+
+
+
+
+
+1.    sudo apt-get install xdotool unclutter sed
+
+2. Go to raspi-config and in boot options, click B1 "Desktop / CLI", then select option B4 "Desktop Autologin"
+3. Create your kiosk bash script by running the following
 
    ```text
    nano /home/pi/kiosk.sh
    ```
 
-5. Copy and Paste the following lines into the script, and change "[https://google.com](https://google.com/)" to the web address of the page you wish to open. Pay attention to http and https
+4. Copy and Paste the following lines into the script, and change "[https://google.com](https://google.com/)" to the web address of the page you wish to open. Pay attention to http and https
 
    ```text
    #!/bin/bash
@@ -35,20 +44,20 @@
    /usr/bin/chromium-browser --noerrdialogs --disable-infobars --kiosk https://google.com
    ```
 
-6. When done press CTRL+X and they Y and finall ENTER
-7. Run the following and remember the value
+5. When done press CTRL+X and they Y and finall ENTER
+6. Run the following and remember the value
 
    ```text
    echo $DISPLAY
    ```
 
-8. Create a service file to tell the operating system what file you want to be executed as well as that we want the GUI to be available before starting up the software
+7. Create a service file to tell the operating system what file you want to be executed as well as that we want the GUI to be available before starting up the software
 
    ```text
    sudo nano /lib/systemd/system/kiosk.service
    ```
 
-9. Copy the following Code and if necessary, modify the "Environment=DISPLAY=0" to whatever value you recieved from step 7
+8. Copy the following Code and if necessary, modify the "Environment=DISPLAY=0" to whatever value you recieved from step 7
 
    ```text
    [Unit]
@@ -69,16 +78,16 @@
    WantedBy=graphical.target
    ```
 
-10. When done press CTRL+X and they Y and finall ENTER
-11. Enable the kiosk service by running the following
+9. When done press CTRL+X and they Y and finall ENTER
+10. Enable the kiosk service by running the following
 
     sudo systemctl enable kiosk.service
 
-12. With the Kiosk service now enabled you can either choose to restart the Raspberry Pi or start the service now by running the following command.
+11. With the Kiosk service now enabled you can either choose to restart the Raspberry Pi or start the service now by running the following command.
 
     sudo systemctl start kiosk.service
 
-13. To check the status run the following
+12. To check the status run the following
 
     sudo systemctl status kiosk.service
 
