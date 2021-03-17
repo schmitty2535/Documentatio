@@ -6,5 +6,4 @@
 
 * [Kiosk Mode](raspberry-pi/kiosk-mode/README.md)
   * [Kiosk Mode Instructions](raspberry-pi/kiosk-mode/kiosk-mode-instructions.md)
-  * [Untitled](raspberry-pi/kiosk-mode/untitled.md)
 
