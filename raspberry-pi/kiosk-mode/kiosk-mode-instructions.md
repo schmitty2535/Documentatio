@@ -7,7 +7,7 @@
 **2.** Enable VNC in raspi-config type  `sudo raspi-config`and select Interface Options followed by VNC and select "Yes" if its not already enabled.
 
 {% hint style="info" %}
-Allowing VNC enables you to remotely access your raspberry pi from another computer on the same network with a program such as RealVNC's VNC Viewer program.
+Allowing VNC enables you to remotely access your raspberry pi from another computer on the same network with a program such as RealVNC's VNC Viewer program. [https://www.realvnc.com/en/connect/download/viewer/](https://www.realvnc.com/en/connect/download/viewer/)
 {% endhint %}
 
 **3.** Go to raspi-config and again and select boot options followed by "Desktop/CLI" and Enable Desktop Autologin
