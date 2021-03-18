@@ -4,6 +4,7 @@
 
 ## Raspberry Pi
 
+* [Distribution Setup](raspberry-pi/distribution-setup.md)
 * [HDMI Hotplug](raspberry-pi/hdmi-hotplug.md)
 * [Startup Script](raspberry-pi/startup-script.md)
 * [Display Rotation](raspberry-pi/display-rotation.md)
