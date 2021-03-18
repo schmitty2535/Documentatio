@@ -4,6 +4,7 @@
 
 ## Raspberry Pi
 
+* [Startup Script](raspberry-pi/startup-script.md)
 * [Display Rotation](raspberry-pi/display-rotation.md)
 * [Sleep Prevention](raspberry-pi/sleep-prevention.md)
 * [Kiosk Mode](raspberry-pi/kiosk-mode/README.md)
