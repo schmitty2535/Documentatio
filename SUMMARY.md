@@ -4,6 +4,7 @@
 
 ## Raspberry Pi
 
+* [Display Rotation](raspberry-pi/display-rotation.md)
 * [Sleep Prevention](raspberry-pi/sleep-prevention.md)
 * [Kiosk Mode](raspberry-pi/kiosk-mode/README.md)
   * [Kiosk Mode Instructions](raspberry-pi/kiosk-mode/kiosk-mode-instructions.md)
