@@ -4,6 +4,7 @@
 
 ## Raspberry Pi
 
+* [HDMI Hotplug](raspberry-pi/hdmi-hotplug.md)
 * [Startup Script](raspberry-pi/startup-script.md)
 * [Display Rotation](raspberry-pi/display-rotation.md)
 * [Sleep Prevention](raspberry-pi/sleep-prevention.md)
