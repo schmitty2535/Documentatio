@@ -12,7 +12,7 @@ Allowing VNC enables you to remotely access your raspberry pi from another compu
 
 **3.** Go to raspi-config and again and select boot options followed by "Desktop/CLI" and Enable Desktop Autologin
 
-**4.** Install xdotool and unclutter by running the following command `sudo nano apt-get install xdotool unclutter sed`
+**4.** Install xdotool and unclutter by running the following command `sudo apt-get install xdotool unclutter sed`
 
 {% hint style="info" %}
 Install xdotool and unclutter, xdotool: This tool will allow our bash script to execute key presses without anyone being on the device. Unclutter: This will enable us to hide the mouse from the display.
