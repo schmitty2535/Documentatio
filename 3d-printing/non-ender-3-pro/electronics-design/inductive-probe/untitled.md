@@ -1,94 +1,18 @@
-# Untitled
+# Voron Design SKR 1.3 Setup Guided
 
 **Voron Design SKR 1.3 Setup Guide**
 
 ![](../../../../.gitbook/assets/0.png)
 
-[Power Supply Wiring 1]()
+[Power Supply Wiring ---------------------------------------------------------------------------------------------------------------------------1](untitled.md#power-supply-wiring)
 
-[Safety Note 1]()
+[SKR 1.3 Board Configuration --------------------------------------------------------------------------------------------------------------2](untitled.md#skr-1-3-board-configuration)
 
-[Damage Risk 1]()
+[Slicer Setup and First Print ---------------------------------------------------------------------------------------------------------------18](untitled.md#slicer-setup-and-first-print)
 
-[DC Power Supply Wiring 1]()
+[Appendix ------------------------------------------------------------------------------------------------------------------------------------------19](untitled.md#appendix)
 
-[Using non-24V fans for 24V powered SKR 1]()
 
-[SKR 1.3 Board Configuration 2]()
-
-[Jumper Configuration 2]()
-
-[Stepper Driver Installation 2]()
-
-[Wire Terminals 3]()
-
-[Inductive Probe Wiring 3]()
-
-[Endstop Wiring 4]()
-
-[MCU 1 Wiring \(X, Y, E, Hot End\) 5]()
-
-[MCU Z Wiring \(Z, Bed, Exhaust Fan\) 6]()
-
-[Klipper Installation 8]()
-
-[Installing Klipper Firmware on your SKR 1.3 Boards 8]()
-
-[Configuring Octoprint to use Klipper 10]()
-
-[Setting up Voron Printer Configuration FIle 10]()
-
-[Common Klipper Errors 12]()
-
-[Klipper Troubleshooting 12]()
-
-[Klipper Configuration Checks 13]()
-
-[Endstop Check 13]()
-
-[Stepper Motor Check 13]()
-
-[XY Homing Check 13]()
-
-[Define \(0,0\) Point 14]()
-
-[Z Endstop Pin Location Definition 15]()
-
-[Probe Check 15]()
-
-[Probe Accuracy 15]()
-
-[Quad Gantry Leveling \(or Z Tilt\) 15]()
-
-[PID Tune Heated Bed 16]()
-
-[PID Tune Hotend 16]()
-
-[Running Quad Gantry Level with Hot Chamber 16]()
-
-[Z Offset Adjustment 16]()
-
-[Extruder Calibration 17]()
-
-[Fine Tuning Z Height 17]()
-
-[Slicer Setup and First Print 18]()
-
-[Cura Installation 18]()
-
-[First Print 18]()
-
-[Appendix 19]()
-
-[Appendix 1 - Notepad++ Configuration Editing \(Windows\) 19]()
-
-[Appendix 2 - bbEdit Configuration Editing \(macOS\) 19]()
-
-[Appendix 3 - Recommended Octoprint Plugins 20]()
-
-[Appendix 5 - Other Accessories 20]()
-
-[Appendix 6 - Contributors 20]()
 
 ## Power Supply Wiring
 
