@@ -16,6 +16,9 @@
 ## 3D Printing
 
 * [Non-Ender 3 Pro](3d-printing/non-ender-3-pro/README.md)
+  * [Electronics Design](3d-printing/non-ender-3-pro/electronics-design/README.md)
+    * [Inductive Probe](3d-printing/non-ender-3-pro/electronics-design/inductive-probe/README.md)
+      * [Untitled](3d-printing/non-ender-3-pro/electronics-design/inductive-probe/untitled.md)
   * [printer.cfg](3d-printing/non-ender-3-pro/printer.cfg/README.md)
     * [3.19.21](3d-printing/non-ender-3-pro/printer.cfg/3.19.21.md)
 
