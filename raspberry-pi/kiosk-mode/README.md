@@ -10,5 +10,5 @@ Kiosks tend to be deployed in a self-service environment which means the user of
 
 {% page-ref page="command-list.md" %}
 
-
+Need to research [https://www.raspberrypi.org/forums/viewtopic.php?t=239087](https://www.raspberrypi.org/forums/viewtopic.php?t=239087)
 

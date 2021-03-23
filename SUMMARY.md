@@ -9,6 +9,7 @@
 * [PM2](raspberry-pi/pm2.md)
 * [Startup Script](raspberry-pi/startup-script.md)
 * [Display Rotation](raspberry-pi/display-rotation.md)
+* [Raspberry Pi Display](raspberry-pi/raspberry-pi-display.md)
 * [Sleep Prevention](raspberry-pi/sleep-prevention.md)
 * [Kiosk Mode](raspberry-pi/kiosk-mode/README.md)
   * [Kiosk Mode Instructions](raspberry-pi/kiosk-mode/kiosk-mode-instructions.md)
@@ -23,4 +24,8 @@
       * [Voron Design SKR 1.3 Setup Guided](3d-printing/non-ender-3-pro/electronics-design/inductive-probe/untitled.md)
   * [printer.cfg](3d-printing/non-ender-3-pro/printer.cfg/README.md)
     * [3.19.21](3d-printing/non-ender-3-pro/printer.cfg/3.19.21.md)
+
+## Alamods
+
+* [PCB Testing](alamods/pcb-testing.md)
 
