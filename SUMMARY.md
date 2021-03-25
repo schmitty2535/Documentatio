@@ -7,6 +7,7 @@
 * [Distribution Setup](raspberry-pi/distribution-setup.md)
 * [HDMI Hotplug](raspberry-pi/hdmi-hotplug.md)
 * [PM2](raspberry-pi/pm2.md)
+* [CM4 Setup](raspberry-pi/cm4-setup.md)
 * [Startup Script](raspberry-pi/startup-script.md)
 * [Display Rotation](raspberry-pi/display-rotation.md)
 * [Raspberry Pi Display](raspberry-pi/raspberry-pi-display.md)
