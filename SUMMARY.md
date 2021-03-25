@@ -5,6 +5,7 @@
 ## Raspberry Pi
 
 * [Distribution Setup](raspberry-pi/distribution-setup.md)
+* [Scripts](raspberry-pi/scripts.md)
 * [HDMI Hotplug](raspberry-pi/hdmi-hotplug.md)
 * [PM2](raspberry-pi/pm2.md)
 * [CM4 Setup](raspberry-pi/cm4-setup.md)
