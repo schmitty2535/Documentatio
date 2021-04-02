@@ -29,5 +29,6 @@
 
 ## Alamods
 
+* [Serial Interface Commands](alamods/serial-interface-commands.md)
 * [PCB Testing](alamods/pcb-testing.md)
 
