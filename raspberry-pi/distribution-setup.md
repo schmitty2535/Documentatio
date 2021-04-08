@@ -20,7 +20,7 @@ Serial
 Select option 8 ‘update’ Exit the raspi-config menu
 
 ```text
-sudo nano /boot/cmdline.txt   **remove console beginning**
+sudo nano /boot/cmdline.txt   **remove first two statements with console at the beginning**
 sudo nano /boot/config.txt
 ```
 
