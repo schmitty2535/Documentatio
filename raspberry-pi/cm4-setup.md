@@ -6,5 +6,5 @@
 
 Put the following in /boot/config.txt
 
-dtoverlay=dwc2,dr\_mode=host
+`dtoverlay=dwc2,dr_mode=host`
 
