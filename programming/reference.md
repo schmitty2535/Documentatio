@@ -42,5 +42,11 @@
 
 
 
+Color wheel
+
+{% embed url="https://www.cssscript.com/sleek-html5-javascript-color-picker-iro-js/\#methods" %}
+
+
+
 
 
