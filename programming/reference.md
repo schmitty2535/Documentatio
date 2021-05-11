@@ -42,9 +42,19 @@
 
 
 
-Color wheel
+## Color wheel
 
 {% embed url="https://www.cssscript.com/sleek-html5-javascript-color-picker-iro-js/\#methods" %}
+
+
+
+
+
+## Reload HTML Page with JavaScript 
+
+{% embed url="https://www.w3schools.com/jsref/met\_loc\_reload.asp" %}
+
+
 
 
 
