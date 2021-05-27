@@ -34,6 +34,7 @@
 
 ## Programming
 
+* [NPM Package](programming/npm-package.md)
 * [Reference](programming/reference.md)
 * [HTML](programming/html/README.md)
   * [Color Wheel](programming/html/color-wheel/README.md)
@@ -47,4 +48,8 @@
 ## Projects
 
 * [Untitled](projects/untitled.md)
+
+---
+
+* [Tutorial Reference](tutorial-reference.md)
 
