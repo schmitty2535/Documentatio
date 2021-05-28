@@ -2,7 +2,7 @@
 
 Use PM2 To Start and Manage Your Node Apps
 
-![](../.gitbook/assets/1%20%281%29.png)
+![](../../.gitbook/assets/1%20%281%29.png)
 
 ## Intro
 

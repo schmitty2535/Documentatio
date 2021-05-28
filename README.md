@@ -6,7 +6,7 @@ description: Links to Important Docs
 
 ### **Raspberry PI**
 
-{% page-ref page="raspberry-pi/kiosk-mode/" %}
+{% page-ref page="raspberry-pi/raspberry-pi/kiosk-mode/" %}
 
 
 

@@ -4,18 +4,19 @@
 
 ## Raspberry Pi
 
-* [Distribution Setup](raspberry-pi/distribution-setup.md)
-* [Scripts](raspberry-pi/scripts.md)
-* [HDMI Hotplug](raspberry-pi/hdmi-hotplug.md)
-* [PM2](raspberry-pi/pm2.md)
-* [CM4 Setup](raspberry-pi/cm4-setup.md)
-* [Startup Script](raspberry-pi/startup-script.md)
-* [Display Rotation](raspberry-pi/display-rotation.md)
-* [Raspberry Pi Display](raspberry-pi/raspberry-pi-display.md)
-* [Sleep Prevention](raspberry-pi/sleep-prevention.md)
-* [Kiosk Mode](raspberry-pi/kiosk-mode/README.md)
-  * [Kiosk Mode Instructions](raspberry-pi/kiosk-mode/kiosk-mode-instructions.md)
-  * [Kiosk Command List](raspberry-pi/kiosk-mode/command-list.md)
+* [Raspberry Pi](raspberry-pi/raspberry-pi/README.md)
+  * [Scripts](raspberry-pi/raspberry-pi/scripts.md)
+  * [Distribution Setup](raspberry-pi/raspberry-pi/distribution-setup.md)
+  * [HDMI Hotplug](raspberry-pi/raspberry-pi/hdmi-hotplug.md)
+  * [CM4 Setup](raspberry-pi/raspberry-pi/cm4-setup.md)
+  * [PM2](raspberry-pi/raspberry-pi/pm2.md)
+  * [Startup Script](raspberry-pi/raspberry-pi/startup-script.md)
+  * [Display Rotation](raspberry-pi/raspberry-pi/display-rotation.md)
+  * [Raspberry Pi Display](raspberry-pi/raspberry-pi/raspberry-pi-display.md)
+  * [Sleep Prevention](raspberry-pi/raspberry-pi/sleep-prevention.md)
+  * [Kiosk Mode](raspberry-pi/raspberry-pi/kiosk-mode/README.md)
+    * [Kiosk Mode Instructions](raspberry-pi/raspberry-pi/kiosk-mode/kiosk-mode-instructions.md)
+    * [Kiosk Command List](raspberry-pi/raspberry-pi/kiosk-mode/command-list.md)
 
 ## 3D Printing
 
@@ -48,5 +49,14 @@
 
 ## Projects
 
-* [Untitled](projects/untitled.md)
+* [Home](projects/home/README.md)
+  * [Magic Mirror](projects/home/magic-mirror/README.md)
+    * [index](projects/home/magic-mirror/untitled.md)
+* [Work](projects/work/README.md)
+  * [Camera Inspection](projects/work/untitled.md)
+
+## Reference
+
+* [SSH Tools](reference/ssh-tools/README.md)
+  * [Links](reference/ssh-tools/untitled.md)
 
