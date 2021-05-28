@@ -35,8 +35,6 @@
 
 ## Programming
 
-* [NPM Package](programming/npm-package/README.md)
-  * [Tutorial Reference](programming/npm-package/tutorial-reference.md)
 * [Reference](programming/reference.md)
 * [HTML](programming/html/README.md)
   * [Color Wheel](programming/html/color-wheel/README.md)
@@ -57,6 +55,9 @@
 
 ## Reference
 
+* [NPM Package](reference/npm-package/README.md)
+  * [List of NPM packages](reference/npm-package/list-of-npm-packages.md)
+  * [Tutorial Reference](reference/npm-package/tutorial-reference.md)
 * [SSH Tools](reference/ssh-tools/README.md)
   * [Links](reference/ssh-tools/untitled.md)
 
