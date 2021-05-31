@@ -56,6 +56,8 @@
 ## Reference
 
 * [NPM Package](reference/npm-package/README.md)
+  * [Updating your published package version number](reference/npm-package/updating-your-published-package-version-number.md)
+  * [About semantic versioning](reference/npm-package/about-semantic-versioning.md)
   * [List of NPM packages](reference/npm-package/list-of-npm-packages.md)
   * [Tutorial Reference](reference/npm-package/tutorial-reference.md)
 * [SSH Tools](reference/ssh-tools/README.md)
