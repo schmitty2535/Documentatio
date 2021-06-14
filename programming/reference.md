@@ -62,6 +62,23 @@ Shields
 
 
 
+random num generator
+
+```text
+function getRandomInt(max) {
+    return Math.floor(Math.random() * max);
+}
+
+
+setInterval(function(){
+    var test24 = getRandomInt(255);
+    var test25 = getRandomInt(255);
+    var test26 = getRandomInt(255);
+
+    comm.dledBufferWrite(0x01, test24, test25, test26,0,0);
+},100)
+```
+
 
 
 
