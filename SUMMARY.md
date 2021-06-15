@@ -39,6 +39,7 @@
   * [NPM Packages](programming/npm/npm-packages/README.md)
     * [List of NPM packages](programming/npm/npm-packages/list-of-npm-packages.md)
   * [NPM Reference Docs](programming/npm/npm-package/README.md)
+    * [A Simple Guide to Publishing an npm Package](programming/npm/npm-package/untitled.md)
     * [Updating your published package version number](programming/npm/npm-package/updating-your-published-package-version-number.md)
     * [About semantic versioning](programming/npm/npm-package/about-semantic-versioning.md)
     * [Tutorial Reference](programming/npm/npm-package/tutorial-reference.md)
