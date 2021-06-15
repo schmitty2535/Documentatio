@@ -4,6 +4,8 @@
 
 #### boxen- command line box maker
 
+![](../../.gitbook/assets/boxen2.gif)
+
 #### prompts- simple command line interface \(questions\)
 
 #### Enquirer- command line interface
@@ -11,8 +13,6 @@
 #### fs-extra- extra fs use
 
 #### jsonfile- write to json files
-
-
 
 
 
