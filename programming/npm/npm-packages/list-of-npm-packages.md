@@ -4,7 +4,7 @@
 
 #### boxen- command line box maker
 
-![](../../.gitbook/assets/boxen2.gif)
+![](../../../.gitbook/assets/boxen2.gif)
 
 #### prompts- simple command line interface \(questions\)
 

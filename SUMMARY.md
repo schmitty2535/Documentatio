@@ -35,7 +35,15 @@
 
 ## Programming
 
-* [Reference](programming/reference.md)
+* [NPM](programming/npm/README.md)
+  * [NPM Packages](programming/npm/npm-packages/README.md)
+    * [List of NPM packages](programming/npm/npm-packages/list-of-npm-packages.md)
+  * [NPM Reference Docs](programming/npm/npm-package/README.md)
+    * [Updating your published package version number](programming/npm/npm-package/updating-your-published-package-version-number.md)
+    * [About semantic versioning](programming/npm/npm-package/about-semantic-versioning.md)
+    * [Tutorial Reference](programming/npm/npm-package/tutorial-reference.md)
+* [Javascript/HTML Reference](programming/javascript-html-reference/README.md)
+  * [Reference](programming/javascript-html-reference/reference.md)
 * [HTML](programming/html/README.md)
   * [Color Wheel](programming/html/color-wheel/README.md)
     * [Color API](programming/html/color-wheel/untitled.md)
@@ -44,6 +52,8 @@
     * [Introduction](programming/html/color-wheel/untitled-4.md)
     * [index](programming/html/color-wheel/untitled-3.md)
     * [Advanced](programming/html/color-wheel/advanced.md)
+* [SSH Tools](programming/ssh-tools/README.md)
+  * [Links](programming/ssh-tools/untitled.md)
 
 ## Projects
 
@@ -52,14 +62,4 @@
     * [index](projects/home/magic-mirror/untitled.md)
 * [Work](projects/work/README.md)
   * [Camera Inspection](projects/work/untitled.md)
-
-## Reference
-
-* [NPM Package](reference/npm-package/README.md)
-  * [Updating your published package version number](reference/npm-package/updating-your-published-package-version-number.md)
-  * [About semantic versioning](reference/npm-package/about-semantic-versioning.md)
-  * [List of NPM packages](reference/npm-package/list-of-npm-packages.md)
-  * [Tutorial Reference](reference/npm-package/tutorial-reference.md)
-* [SSH Tools](reference/ssh-tools/README.md)
-  * [Links](reference/ssh-tools/untitled.md)
 
