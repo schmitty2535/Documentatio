@@ -44,7 +44,9 @@
     * [About semantic versioning](programming/npm/npm-package/about-semantic-versioning.md)
     * [Tutorial Reference](programming/npm/npm-package/tutorial-reference.md)
 * [Javascript/HTML Reference](programming/javascript-html-reference/README.md)
-  * [Reference](programming/javascript-html-reference/reference.md)
+  * [Reference](programming/javascript-html-reference/reference/README.md)
+    * [Object\(\) constructor - JavaScript \| MDN](programming/javascript-html-reference/reference/untitled-1.md)
+    * [How to Use Object Destructuring in JavaScript](programming/javascript-html-reference/reference/untitled.md)
 * [HTML](programming/html/README.md)
   * [Color Wheel](programming/html/color-wheel/README.md)
     * [Color API](programming/html/color-wheel/untitled.md)
@@ -62,5 +64,6 @@
   * [Magic Mirror](projects/home/magic-mirror/README.md)
     * [index](projects/home/magic-mirror/untitled.md)
 * [Work](projects/work/README.md)
+  * [RGB DLED](projects/work/rgb-dled.md)
   * [Camera Inspection](projects/work/untitled.md)
 

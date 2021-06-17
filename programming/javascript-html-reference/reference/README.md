@@ -150,7 +150,7 @@ location.reload();
 
 ## Random Number Generator
 
-```text
+```javascript
 function getRandomInt(max) {
     return Math.floor(Math.random() * max);
 }
@@ -181,9 +181,32 @@ function scale (number, inMin, inMax, outMin, outMax) {
 {% endtab %}
 {% endtabs %}
 
+## One Line If/Else
 
+```javascript
+const condition = true;
+// (condition) ? if : else
+(condition) ? console.log("it is true") : console.log("it is false");
 
+var variable = (condition) ? (true block) : ((condition2) ? (true block2) : (else block2))
+```
 
+## Old vs. New Variable Comparer
+
+```javascript
+function check1(oldvalue) {
+    undefined === oldvalue && (oldvalue = value);
+    clearcheck = setInterval(repeatcheck,500,oldvalue);
+    function repeatcheck(oldvalue) {
+        if (value !== oldvalue) {
+            // do something
+            clearInterval(clearcheck);
+            console.log("check1 value changed from " +
+                oldvalue + " to " + value);
+        }
+    }
+}
+```
 
 
 
