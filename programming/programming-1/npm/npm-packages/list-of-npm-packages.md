@@ -135,7 +135,7 @@ Documentation can be found at https://github.com/IonicaBizau/idea
 {% tab title="Example" %}
 #### Create boxes in the terminal
 
-![](../../../.gitbook/assets/boxen2.gif)
+![](../../../../.gitbook/assets/boxen2.gif)
 {% endtab %}
 
 {% tab title="Links" %}
@@ -147,7 +147,7 @@ Documentation can be found at https://github.com/IonicaBizau/idea
 
 {% tabs %}
 {% tab title="Example" %}
-![](../../../.gitbook/assets/prompts.gif)
+![](../../../../.gitbook/assets/prompts.gif)
 {% endtab %}
 
 {% tab title="Links" %}
@@ -159,7 +159,7 @@ Documentation can be found at https://github.com/IonicaBizau/idea
 
 {% tabs %}
 {% tab title="Example" %}
-![](../../../.gitbook/assets/progress.gif)
+![](../../../../.gitbook/assets/progress.gif)
 {% endtab %}
 
 {% tab title="Links" %}
@@ -171,7 +171,7 @@ Documentation can be found at https://github.com/IonicaBizau/idea
 
 {% tabs %}
 {% tab title="Example" %}
-![](../../../.gitbook/assets/config.gif)
+![](../../../../.gitbook/assets/config.gif)
 {% endtab %}
 
 {% tab title="Links" %}
@@ -183,9 +183,9 @@ Documentation can be found at https://github.com/IonicaBizau/idea
 
 {% tabs %}
 {% tab title="Example" %}
-![](../../../.gitbook/assets/enquirer.gif)
+![](../../../../.gitbook/assets/enquirer.gif)
 
-![](../../../.gitbook/assets/survey-prompt.gif)
+![](../../../../.gitbook/assets/survey-prompt.gif)
 {% endtab %}
 
 {% tab title="Links" %}
@@ -197,7 +197,7 @@ Documentation can be found at https://github.com/IonicaBizau/idea
 
 {% tabs %}
 {% tab title="Example" %}
-![](../../../.gitbook/assets/inquirer.gif)
+![](../../../../.gitbook/assets/inquirer.gif)
 {% endtab %}
 
 {% tab title="Links" %}
@@ -209,7 +209,7 @@ Documentation can be found at https://github.com/IonicaBizau/idea
 
 {% tabs %}
 {% tab title="Example" %}
-![](../../../.gitbook/assets/figlet.gif)
+![](../../../../.gitbook/assets/figlet.gif)
 {% endtab %}
 
 {% tab title="Links" %}
@@ -221,7 +221,7 @@ Documentation can be found at https://github.com/IonicaBizau/idea
 
 {% tabs %}
 {% tab title="Example" %}
-![](../../../.gitbook/assets/minimist.gif)
+![](../../../../.gitbook/assets/minimist.gif)
 {% endtab %}
 
 {% tab title="Links" %}
