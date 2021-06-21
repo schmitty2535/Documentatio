@@ -210,6 +210,12 @@ function check1(oldvalue) {
 
 
 
+{% embed url="https://www.w3schools.com/js/js\_arrays.asp" %}
+
+{% embed url="https://www.geeksforgeeks.org/how-to-add-a-delay-in-a-javascript-loop/" %}
+
+
+
 [  
 ](
 https://codepen.io/pen/?template=yLMGxPY
