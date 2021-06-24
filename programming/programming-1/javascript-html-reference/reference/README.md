@@ -214,6 +214,29 @@ function check1(oldvalue) {
 
 {% embed url="https://www.geeksforgeeks.org/how-to-add-a-delay-in-a-javascript-loop/" %}
 
+{% embed url="https://flaviocopes.com/how-to-count-properties-object-javascript/" %}
+
+```javascript
+let object2 = {
+            part:'OCO' + part ,
+            partQr: '^FDQA,OCO' + part,
+            lot:'2002' + lot,
+            temp: '' +
+                '^XA' +
+                '^DFR:temp1.PRN^FS' +
+                '^BY3,3,48^FT229,150^BCN,,Y,N,,A^FN1^FS' +
+                '^FO157,43^A0N,28,28^FB393,1,7,C^FH^CI28^FN2^FS^CI27' +
+                '' +
+                '^FT36,169^BQN,2,5' +
+                '^FH^FN3^FS' +
+                '^XZ' +
+                '',
+            numberOfProps: (Object.keys(this).length - 1) //will not work from within object
+        }
+```
+
+{% embed url="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this" %}
+
 
 
 [  
