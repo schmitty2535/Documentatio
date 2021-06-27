@@ -243,6 +243,12 @@ Documentation can be found at https://github.com/IonicaBizau/idea
 
 {% embed url="https://pdfkit.org/" %}
 
+{% embed url="https://www.npmjs.com/package/gsap" %}
+
+{% embed url="https://www.npmjs.com/package/@google/model-viewer" %}
+
+{% embed url="https://www.npmjs.com/package/three" %}
+
 
 
 #### 
