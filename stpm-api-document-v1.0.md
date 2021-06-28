@@ -1,5 +1,5 @@
 ---
-description: Stepper Motor Board STPM20462
+description: 'Stepper Motor Board STPM20462 6/28/21 9:45AM'
 ---
 
 # STPM API Document V1.0
