@@ -70,3 +70,7 @@
     * [Magic Mirror](projects/projects-1/home/magic-mirror/README.md)
       * [index](projects/projects-1/home/magic-mirror/untitled.md)
 
+---
+
+* [STPM API Document V1.0](stpm-api-document-v1.0.md)
+
