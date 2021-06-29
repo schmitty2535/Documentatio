@@ -10,7 +10,7 @@ description: 'Stepper Motor Board STPM20462 6/28/21 3:00PM'
 
                               movementType - Relative: 0x00,   Absolute: 0x01 
 
-                              distanceType - steps:0x00,   mm:0x01,   degrees:0x02
+                              ~~distanceType - steps:0x00,   mm:0x01,   degrees:0x02~~
 
 * `Homing Setup (0x02, M1Sense, M2Sense, M1InitialHomeDirection, M2HomeInitialDirection)`
 
