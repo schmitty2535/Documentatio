@@ -249,6 +249,8 @@ Documentation can be found at https://github.com/IonicaBizau/idea
 
 {% embed url="https://www.npmjs.com/package/three" %}
 
+{% embed url="https://www.npmjs.com/package/javascript-barcode-reader" %}
+
 
 
 #### 
