@@ -251,6 +251,14 @@ Documentation can be found at https://github.com/IonicaBizau/idea
 
 {% embed url="https://www.npmjs.com/package/javascript-barcode-reader" %}
 
+{% embed url="https://www.npmjs.com/package/time-stamp" %}
+
+{% embed url="https://www.npmjs.com/package/chalk-animation" %}
+
+
+
+{% embed url="https://alligator.io/nodejs/styling-output-command-line-node-scripts-chalk/" %}
+
 
 
 #### 

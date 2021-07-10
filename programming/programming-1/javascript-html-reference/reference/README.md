@@ -237,6 +237,14 @@ let object2 = {
 
 {% embed url="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this" %}
 
+{% embed url="https://www.w3schools.com/js/js\_switch.asp" %}
+
+{% embed url="https://zellwk.com/blog/css-values-in-js/" %}
+
+
+
+{% embed url="https://css-tricks.com/centering-css-complete-guide/" %}
+
 
 
 [  
