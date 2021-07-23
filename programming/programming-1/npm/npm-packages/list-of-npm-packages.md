@@ -259,6 +259,18 @@ Documentation can be found at https://github.com/IonicaBizau/idea
 
 {% embed url="https://alligator.io/nodejs/styling-output-command-line-node-scripts-chalk/" %}
 
+{% embed url="https://www.javascripttutorial.net/array/javascript-remove-duplicates-from-array/" %}
+
+{% embed url="https://www.geeksforgeeks.org/find-the-length-of-a-javascript-object/" %}
+
+{% embed url="https://jsfiddle.net/red\_stapler/u5aanta8/1/" %}
+
+{% embed url="https://www.chartjs.org/docs/latest/samples/bar/vertical.html" %}
+
+{% embed url="https://www.microfocus.com/documentation/silk-test/200/en/silktestworkbench-help-en/SILKTEST-21EEFF3F-DIFFERENCEBETWEENTEXTCONTENTSINNERTEXTINNERHTML-REF.html" %}
+
+{% embed url="https://stackoverflow.com/questions/15987140/how-to-check-if-an-item-is-selected-from-an-html-drop-down-list" %}
+
 
 
 #### 
