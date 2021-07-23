@@ -5,6 +5,7 @@
 ## Raspberry Pi
 
 * [Raspberry Pi](raspberry-pi/raspberry-pi/README.md)
+  * [Static IP](raspberry-pi/raspberry-pi/static-ip.md)
   * [Scripts](raspberry-pi/raspberry-pi/scripts.md)
   * [Distribution Setup](raspberry-pi/raspberry-pi/distribution-setup.md)
   * [HDMI Hotplug](raspberry-pi/raspberry-pi/hdmi-hotplug.md)

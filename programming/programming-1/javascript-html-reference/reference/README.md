@@ -245,6 +245,8 @@ let object2 = {
 
 {% embed url="https://css-tricks.com/centering-css-complete-guide/" %}
 
+{% embed url="https://stackoverflow.com/questions/4260308/getting-the-objects-property-name" %}
+
 
 
 [  
