@@ -16,5 +16,7 @@ SELECT DISTINCT department_id FROM employees;
 {% endtab %}
 {% endtabs %}
 
+{% embed url="https://stackoverflow.com/questions/30608264/setting-a-column-as-timestamp-in-mysql-workbench" %}
+
 
 
