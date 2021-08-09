@@ -58,3 +58,19 @@ Install pm2
 sudo npm install -g pm2
 ```
 
+
+
+
+
+### Access Point
+
+```text
+sudo apt install dnsmasq hostapd
+```
+
+```text
+sudo nano /etc/dhcocd.conf
+```
+
+
+
