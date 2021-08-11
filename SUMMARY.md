@@ -20,6 +20,11 @@
     * [Kiosk Mode Instructions](raspberry-pi/raspberry-pi/kiosk-mode/kiosk-mode-instructions.md)
     * [Kiosk Command List](raspberry-pi/raspberry-pi/kiosk-mode/command-list.md)
 
+## ESP32/8266 <a id="esp32-8266-1"></a>
+
+* [ESP MQTT](esp32-8266-1/esp-mqtt.md)
+* [Untitled](esp32-8266-1/untitled.md)
+
 ## 3D Printing
 
 * [Non-Ender 3 Pro](3d-printing/non-ender-3-pro/README.md)
@@ -79,4 +84,5 @@
 * [STPM API Document V1.0](stpm-api-document-v1.0.md)
 * [STPM API Document V1.1](stpm-api-document-v1.1.md)
 * [STPM API Document V1.2](stpm-api-document-v1.2.md)
+* [Untitled](untitled.md)
 
