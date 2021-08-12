@@ -52,7 +52,7 @@ Pay close attention to http vs. https in your URL
 [Unit]
 Description=Chromium Kiosk
 Wants=graphical.target
-After=graphical.target
+Wants=graphical.target
 
 [Service]
 Environment=DISPLAY=:0.0
