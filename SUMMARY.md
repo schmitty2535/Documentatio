@@ -63,6 +63,7 @@
   * [NPM](programming/programming-1/npm/README.md)
     * [NPM Packages](programming/programming-1/npm/npm-packages/README.md)
       * [List of NPM packages](programming/programming-1/npm/npm-packages/list-of-npm-packages.md)
+      * [Barcode](programming/programming-1/npm/npm-packages/barcode.md)
     * [NPM Reference Docs](programming/programming-1/npm/npm-package/README.md)
       * [A Simple Guide to Publishing an npm Package](programming/programming-1/npm/npm-package/untitled.md)
       * [Updating your published package version number](programming/programming-1/npm/npm-package/updating-your-published-package-version-number.md)
