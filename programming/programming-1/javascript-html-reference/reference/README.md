@@ -247,6 +247,20 @@ let object2 = {
 
 {% embed url="https://stackoverflow.com/questions/4260308/getting-the-objects-property-name" %}
 
+{% embed url="https://css-tricks.com/complete-guide-table-element/" %}
+
+{% embed url="https://mattboldt.com/demos/typed-js/" %}
+
+{% embed url="https://popmotion.io/" %}
+
+{% embed url="https://yoannmoi.net/nipplejs/" %}
+
+{% embed url="https://popper.js.org/" %}
+
+{% embed url="https://vincentgarreau.com/particles.js/" %}
+
+{% embed url="https://www.mysamplecode.com/2012/04/generate-html-table-using-javascript.html" %}
+
 
 
 [  
