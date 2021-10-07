@@ -22,5 +22,7 @@ SELECT DISTINCT department_id FROM employees;
 
 {% embed url="https://www.w3resource.com/mysql-exercises/restricting-and-sorting-data-exercises/" %}
 
+{% embed url="https://stackoverflow.com/questions/11448068/mysql-error-code-1175-during-update-in-mysql-workbench" %}
+
 
 
