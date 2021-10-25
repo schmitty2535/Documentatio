@@ -1,7 +1,3 @@
----
-title: Get Started
----
-
 # Guide
 
 ## Installation
@@ -34,15 +30,15 @@ When you manually include the library like this, iro.js will be made globally av
 
 ### Or download and host yourself
 
-[**Development version**](https://raw.githubusercontent.com/jaames/iro.js/master/dist/iro.js)  
- Uncompressed, with source comments included. Intended for debugging.
+[**Development version**](https://raw.githubusercontent.com/jaames/iro.js/master/dist/iro.js)\
+&#x20;Uncompressed, with source comments included. Intended for debugging.
 
-[**Production version**](https://raw.githubusercontent.com/jaames/iro.js/master/dist/iro.min.js)  
- Minified and optimized version.
+[**Production version**](https://raw.githubusercontent.com/jaames/iro.js/master/dist/iro.min.js)\
+&#x20;Minified and optimized version.
 
 ## Color Picker Setup
 
-First, we need a HTML element with a unique identifier \(such as an `id` attribute\) to act as a container for the color picker:
+First, we need a HTML element with a unique identifier (such as an `id` attribute) to act as a container for the color picker:
 
 ```markup
 <div id="picker"></div>
@@ -71,30 +67,30 @@ var colorPicker = new iro.ColorPicker("#picker", {
 
 ### Available Options
 
-| Option | Purpose | Default Value |
-| :--- | :--- | :--- |
-| `width` | Total width of the control UI. | `300` |
-| `color` | The initial color value. This can be any [supported color format](/color_api.html#supported-color-formats). | `"#ffffff"` |
-| `colors` | Initial color values used for [multi-color selections](/advanced.html#multi-color-selections). | null |
-| `display` | CSS display value for the color picker root element. | `"block"` |
-| `id` | HTML ID for the color picker root element. | `null` |
-| `layout` | Used for customising the [UI component layout](/advanced.html#custom-ui-layouts). | `null` |
-| `layoutDirection` | UI component stacking direction; either `"vertical"` or `"horizontal"`. | `"vertical"` |
-| `padding` | Padding around the control handles. | `6` |
-| `margin` | Gap between individual components. | `12` |
-| `borderWidth` | Width of the border around the controls. Set to `0` for no border. | `0` |
-| `borderColor` | Color of the border. Any valid CSS color is supported. | `"#ffffff"` |
-| `handleRadius` | Radius of the control handles. | `8` |
-| `activeHandleRadius` | Radius of the control handle for the currently selected color. | Inherits `handleRadius` |
-| `handleSvg` | Custom handle SVG, used for [custom handles](/advanced.html#custom-handles). | `null` |
-| `handleProps` | Custom handle properties, used for [custom handles](/advanced.html#custom-handles). | `{x:0, y:0}` |
-| `wheelLightness` | If set to `false`, the color wheel will not fade to black when the lightness decreases. | `true` |
-| `wheelAngle` | Starting angle of the color wheel's hue gradient, measured in degrees. | `0` |
-| `wheelDirection` | Direction of the color wheel's hue gradient; either `"clockwise"` or `"anticlockwise"`. | `"anticlockwise"` |
-| `sliderSize` | Slider control size. By default this will be calculated automatically. | `undefined` |
-| `boxHeight` | Box control height. By default this will be the same as the `width`. | `undefined` |
+| Option               | Purpose                                                                                                                             | Default Value           |
+| -------------------- | ----------------------------------------------------------------------------------------------------------------------------------- | ----------------------- |
+| `width`              | Total width of the control UI.                                                                                                      | `300`                   |
+| `color`              | The initial color value. This can be any [supported color format](https://app.gitbook.com/color\_api.html#supported-color-formats). | `"#ffffff"`             |
+| `colors`             | Initial color values used for [multi-color selections](https://app.gitbook.com/advanced.html#multi-color-selections).               | null                    |
+| `display`            | CSS display value for the color picker root element.                                                                                | `"block"`               |
+| `id`                 | HTML ID for the color picker root element.                                                                                          | `null`                  |
+| `layout`             | Used for customising the [UI component layout](https://app.gitbook.com/advanced.html#custom-ui-layouts).                            | `null`                  |
+| `layoutDirection`    | UI component stacking direction; either `"vertical"` or `"horizontal"`.                                                             | `"vertical"`            |
+| `padding`            | Padding around the control handles.                                                                                                 | `6`                     |
+| `margin`             | Gap between individual components.                                                                                                  | `12`                    |
+| `borderWidth`        | Width of the border around the controls. Set to `0` for no border.                                                                  | `0`                     |
+| `borderColor`        | Color of the border. Any valid CSS color is supported.                                                                              | `"#ffffff"`             |
+| `handleRadius`       | Radius of the control handles.                                                                                                      | `8`                     |
+| `activeHandleRadius` | Radius of the control handle for the currently selected color.                                                                      | Inherits `handleRadius` |
+| `handleSvg`          | Custom handle SVG, used for [custom handles](https://app.gitbook.com/advanced.html#custom-handles).                                 | `null`                  |
+| `handleProps`        | Custom handle properties, used for [custom handles](https://app.gitbook.com/advanced.html#custom-handles).                          | `{x:0, y:0}`            |
+| `wheelLightness`     | If set to `false`, the color wheel will not fade to black when the lightness decreases.                                             | `true`                  |
+| `wheelAngle`         | Starting angle of the color wheel's hue gradient, measured in degrees.                                                              | `0`                     |
+| `wheelDirection`     | Direction of the color wheel's hue gradient; either `"clockwise"` or `"anticlockwise"`.                                             | `"anticlockwise"`       |
+| `sliderSize`         | Slider control size. By default this will be calculated automatically.                                                              | `undefined`             |
+| `boxHeight`          | Box control height. By default this will be the same as the `width`.                                                                | `undefined`             |
 
-More details about color picker options, properties, and methods can be found on the [colorPicker API documentation](/colorPicker_api.html).
+More details about color picker options, properties, and methods can be found on the [colorPicker API documentation](https://app.gitbook.com/colorPicker\_api.html).
 
 ## Working with Colors
 
@@ -102,7 +98,7 @@ Each color picker has a `color` object which stores the currently selected color
 
 ### Color Properties
 
-The color object has some "magic" properties which can be used to both **get** and **set** the selected color in different formats. Whenever one of these properties is set, the color picker controls will update and the [`color:change`]() event will fire.
+The color object has some "magic" properties which can be used to both **get** and **set** the selected color in different formats. Whenever one of these properties is set, the color picker controls will update and the [`color:change`](broken-reference) event will fire.
 
 For example, to get the current color as a hex string:
 
@@ -118,38 +114,38 @@ colorPicker.color.hsl = { h: 180, s: 100, l: 50 };
 // Color picker updates to match hsl(180, 100, 50)
 ```
 
-The color object has properties which cover all of the most common web color formats \(HEX, RGB, HSL and HSV\), as well as some extras:
+The color object has properties which cover all of the most common web color formats (HEX, RGB, HSL and HSV), as well as some extras:
 
-| Property | Example Format |
-| :--- | :--- |
-| `hexString` | `"#ff0000"` |
-| `hex8String` | `"#ff0000ff"` |
-| `rgb` | `{ r: 255, g: 0, b: 0 }` |
-| `rgba` | `{ r: 255, g: 0, b: 0, a: 1 }` |
-| `rgbString` | `"rgb(255, 0, 0)"` |
-| `rgbaString` | `"rgb(255, 0, 0, 1)"` |
-| `hsl` | `{ h: 360, s: 100, l: 50 }` |
-| `hsla` | `{ h: 360, s: 100, l: 50, a: 1 }` |
-| `hslString` | `"hsl(360, 100%, 50%)"` |
-| `hslaString` | `"hsla(360, 100%, 50%, 1)"` |
-| `hsv` | `{ h: 360, s: 100, v: 100 }` |
-| `hsva` | `{ h: 360, s: 100, v: 100, a: 1 }` |
-| `red` | `0` to `255` |
-| `green` | `0` to `255` |
-| `blue` | `0` to `255` |
-| `alpha` | `0` to `1` |
-| `hue` | `0` to `360` |
-| `saturation` | `0` to `100` |
-| `value` | `0` to `100` |
-| `kelvin` | `1000` to `40000` |
+| Property     | Example Format                     |
+| ------------ | ---------------------------------- |
+| `hexString`  | `"#ff0000"`                        |
+| `hex8String` | `"#ff0000ff"`                      |
+| `rgb`        | `{ r: 255, g: 0, b: 0 }`           |
+| `rgba`       | `{ r: 255, g: 0, b: 0, a: 1 }`     |
+| `rgbString`  | `"rgb(255, 0, 0)"`                 |
+| `rgbaString` | `"rgb(255, 0, 0, 1)"`              |
+| `hsl`        | `{ h: 360, s: 100, l: 50 }`        |
+| `hsla`       | `{ h: 360, s: 100, l: 50, a: 1 }`  |
+| `hslString`  | `"hsl(360, 100%, 50%)"`            |
+| `hslaString` | `"hsla(360, 100%, 50%, 1)"`        |
+| `hsv`        | `{ h: 360, s: 100, v: 100 }`       |
+| `hsva`       | `{ h: 360, s: 100, v: 100, a: 1 }` |
+| `red`        | `0` to `255`                       |
+| `green`      | `0` to `255`                       |
+| `blue`       | `0` to `255`                       |
+| `alpha`      | `0` to `1`                         |
+| `hue`        | `0` to `360`                       |
+| `saturation` | `0` to `100`                       |
+| `value`      | `0` to `100`                       |
+| `kelvin`     | `1000` to `40000`                  |
 
-For more details about color objects, check out the [Color API documentation](/color_api.html).
+For more details about color objects, check out the [Color API documentation](https://app.gitbook.com/color\_api.html).
 
 ## Color Picker Events
 
 Events let you to run your own code after certain things have happened, like when the selected color has changed or when the user has interacted with the color picker.
 
-The color picker's [`on`](colorPicker_api.html#on) method can be used to attach functions that will be called whenever a particular event is fired. In this example, we add a listener for the `color:change` event:
+The color picker's [`on`](https://app.gitbook.com/s/-MW-a3EiOh7gcpPdqKN3/programming/programming-1/html/color-wheel/colorPicker\_api.html#on) method can be used to attach functions that will be called whenever a particular event is fired. In this example, we add a listener for the `color:change` event:
 
 ```javascript
 // listen to a color picker's color:change event
@@ -160,7 +156,7 @@ colorPicker.on('color:change', function(color) {
 });
 ```
 
-The [`on`](colorPicker_api.html#on) method can also take an array of event names, in case you want to listen to multiple events with one function:
+The [`on`](https://app.gitbook.com/s/-MW-a3EiOh7gcpPdqKN3/programming/programming-1/html/color-wheel/colorPicker\_api.html#on) method can also take an array of event names, in case you want to listen to multiple events with one function:
 
 ```javascript
 // listen to a color picker's color:init and color:change events
@@ -170,7 +166,7 @@ colorPicker.on(['color:init', 'color:change'], function(color) {
 });
 ```
 
-Event listeners can also be removed at any time by passing the same function to the color picker's [`off`](colorPicker_api.html#off) method:
+Event listeners can also be removed at any time by passing the same function to the color picker's [`off`](https://app.gitbook.com/s/-MW-a3EiOh7gcpPdqKN3/programming/programming-1/html/color-wheel/colorPicker\_api.html#off) method:
 
 ```javascript
 // create a callback function
@@ -191,7 +187,7 @@ colorPicker.off('color:change', onColorChange);
 
 Fired whenever the selected color changes -- either when the user interacts with the color picker, or when the color is updated by your own code. This event's callback functions will recieve two values:
 
-* `color`: the [currently selected color]()
+* `color`: the [currently selected color](broken-reference)
 * `changes`: an object showing which HSV channels have changed since the last time the event was fired
 
 It is safe to modify the `color` object within callbacks for this event. This can be helpful if you want to limit the range or a certain color channel, for example:
@@ -213,15 +209,15 @@ Callbacks for this event recieve the same values as `color:change`, and it is al
 
 #### `input:start`
 
-Fired whenever the users starts interacting with the color picker controls. The [currently selected color]() is passed to this event's callback function.
+Fired whenever the users starts interacting with the color picker controls. The [currently selected color](broken-reference) is passed to this event's callback function.
 
 #### `input:move`
 
-Fired when the user moves their pointer/mouse after beginning interaction. The [currently selected color]() is passed to this event's callback function.
+Fired when the user moves their pointer/mouse after beginning interaction. The [currently selected color](broken-reference) is passed to this event's callback function.
 
 #### `input:end`
 
-Fired whenever the user stops interacting with the color picker controls. The [currently selected color]() is passed to this event's callback function.
+Fired whenever the user stops interacting with the color picker controls. The [currently selected color](broken-reference) is passed to this event's callback function.
 
 #### `color:init`
 
@@ -238,4 +234,3 @@ Fired whenever the 'active' color is switched. This event's callbacks will recei
 #### `mount`
 
 Fired when the colorPicker's UI has been mounted to the DOM and is ready for user interaction. The colorPicker object is passed to this event's callback function.
-

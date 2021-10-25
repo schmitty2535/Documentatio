@@ -20,7 +20,7 @@
     * [Kiosk Mode Instructions](raspberry-pi/raspberry-pi/kiosk-mode/kiosk-mode-instructions.md)
     * [Kiosk Command List](raspberry-pi/raspberry-pi/kiosk-mode/command-list.md)
 
-## ESP32/8266 <a id="esp32-8266-1"></a>
+## ESP32/8266 <a href="esp32-8266-1" id="esp32-8266-1"></a>
 
 * [ESP MQTT](esp32-8266-1/esp-mqtt.md)
 * [Untitled](esp32-8266-1/untitled.md)
@@ -34,6 +34,8 @@
       * [Voron Design SKR 1.3 Setup Guided](3d-printing/non-ender-3-pro/electronics-design/inductive-probe/untitled.md)
   * [printer.cfg](3d-printing/non-ender-3-pro/printer.cfg/README.md)
     * [3.19.21](3d-printing/non-ender-3-pro/printer.cfg/3.19.21.md)
+* [Voron](3d-printing/untitled/README.md)
+  * [Links](3d-printing/untitled/links.md)
 
 ## Alamods
 
@@ -58,7 +60,7 @@
       * [Advanced](programming/programming-1/html/color-wheel/advanced.md)
   * [Javascript/HTML Reference](programming/programming-1/javascript-html-reference/README.md)
     * [Reference](programming/programming-1/javascript-html-reference/reference/README.md)
-      * [Object\(\) constructor - JavaScript \| MDN](programming/programming-1/javascript-html-reference/reference/untitled-1.md)
+      * [Object() constructor - JavaScript | MDN](programming/programming-1/javascript-html-reference/reference/untitled-1.md)
       * [How to Use Object Destructuring in JavaScript](programming/programming-1/javascript-html-reference/reference/untitled.md)
   * [NPM](programming/programming-1/npm/README.md)
     * [NPM Packages](programming/programming-1/npm/npm-packages/README.md)
@@ -80,10 +82,8 @@
     * [Magic Mirror](projects/projects-1/home/magic-mirror/README.md)
       * [index](projects/projects-1/home/magic-mirror/untitled.md)
 
----
+***
 
 * [STPM API Document V1.0](stpm-api-document-v1.0.md)
 * [STPM API Document V1.1](stpm-api-document-v1.1.md)
 * [STPM API Document V1.2](stpm-api-document-v1.2.md)
-* [Untitled](untitled.md)
-

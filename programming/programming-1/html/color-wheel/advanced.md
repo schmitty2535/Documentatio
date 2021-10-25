@@ -1,7 +1,3 @@
----
-title: Advanced Usage
----
-
 # Advanced
 
 ## Custom UI Layouts
@@ -10,7 +6,7 @@ iro.js comes with a variety of built-in UI components. With the color picker's `
 
 Layouts are configured with the color picker's `layout` option. This should be an array where each item is an object with a `component` property. The `component` property specifies the type of component to use, which can be either `iro.ui.Wheel`, `iro.ui.Box` or `iro.ui.Slider`.
 
-For example, here's what the component definitions for the default layout \(a color wheel and a value slider\) would look like:
+For example, here's what the component definitions for the default layout (a color wheel and a value slider) would look like:
 
 ```javascript
 var colorPicker = new iro.ColorPicker('#picker', {
@@ -25,7 +21,7 @@ var colorPicker = new iro.ColorPicker('#picker', {
 });
 ```
 
-Component definitions can also include an `options` property to provide [config option](/guide.html#color-picker-options) overrides to individual components. In this example, the wheel and slider will both have the same border width of 2, but different border colors:
+Component definitions can also include an `options` property to provide [config option](https://app.gitbook.com/guide.html#color-picker-options) overrides to individual components. In this example, the wheel and slider will both have the same border width of 2, but different border colors:
 
 ```javascript
 var colorPicker = new iro.ColorPicker('#color-picker', {
@@ -51,7 +47,7 @@ var colorPicker = new iro.ColorPicker('#color-picker', {
 
 #### Wheel
 
-Wheels allow the user to adjust the color's **hue** and **saturation**. They can also support showing [more than one selectable color at once]().
+Wheels allow the user to adjust the color's **hue** and **saturation**. They can also support showing [more than one selectable color at once](broken-reference).
 
 ```javascript
 var colorPicker = new iro.ColorPicker('#picker', {
@@ -66,15 +62,15 @@ var colorPicker = new iro.ColorPicker('#picker', {
 
 There's a few optional wheel-specific config options that can be used:
 
-| Option | Purpose | Default Value |
-| :--- | :--- | :--- |
-| `wheelLightness` | If set to `false`, the color wheel will not fade to black when the lightness decreases. | `true` |
-| `wheelAngle` | Starting angle of the color wheel's hue gradient, measured in degrees. | `0` |
+| Option           | Purpose                                                                                 | Default Value     |
+| ---------------- | --------------------------------------------------------------------------------------- | ----------------- |
+| `wheelLightness` | If set to `false`, the color wheel will not fade to black when the lightness decreases. | `true`            |
+| `wheelAngle`     | Starting angle of the color wheel's hue gradient, measured in degrees.                  | `0`               |
 | `wheelDirection` | Direction of the color wheel's hue gradient; either `"clockwise"` or `"anticlockwise"`. | `"anticlockwise"` |
 
 #### Box
 
-Boxes allow the user to adjust the color's **saturation** and **value**. They can also support showing [more than one selectable color at once]().
+Boxes allow the user to adjust the color's **saturation** and **value**. They can also support showing [more than one selectable color at once](broken-reference).
 
 ```javascript
 var colorPicker = new iro.ColorPicker('#picker', {
@@ -89,17 +85,17 @@ var colorPicker = new iro.ColorPicker('#picker', {
 
 There's a few optional box-specific config options that can be used:
 
-| Option | Purpose | Default Value |
-| :--- | :--- | :--- |
-| `boxHeight` | Height of the box, measured in pixels. If this isn't set, it will use the box's width as its height | `null` |
+| Option      | Purpose                                                                                             | Default Value |
+| ----------- | --------------------------------------------------------------------------------------------------- | ------------- |
+| `boxHeight` | Height of the box, measured in pixels. If this isn't set, it will use the box's width as its height | `null`        |
 
 #### Sliders
 
- &lt;!--
+&#x20;\<!--
 
-&lt;ColorPicker :width="230" :handleRadius="8" :sliderMargin="12" :layout="\[
+\<ColorPicker :width="230" :handleRadius="8" :sliderMargin="12" :layout="\[
 
-\]"/&gt; --&gt;
+]"/> -->
 
 Sliders allow the user to adjust a specific color channel. There are multiple slider types available, covering **hue**, **saturation**, **value**, **red**, **green**, **blue**, **alpha** and **kelvin temperature**.
 
@@ -123,10 +119,10 @@ var colorPicker = new iro.ColorPicker('#picker', {
 
 If `sliderType` is set to `'kelvin'`, the temperature range can be set with these options:
 
-| Option | Purpose | Default Value |
-| :--- | :--- | :--- |
-| `minTemperature` | Minimum color temperature, in Kelvin \(smallest value is `2000`\) | `2200` |
-| `maxTemperature` | Maximum color temperature, in Kelvin \(largest value is `40000`\) | `11000` |
+| Option           | Purpose                                                         | Default Value |
+| ---------------- | --------------------------------------------------------------- | ------------- |
+| `minTemperature` | Minimum color temperature, in Kelvin (smallest value is `2000`) | `2200`        |
+| `maxTemperature` | Maximum color temperature, in Kelvin (largest value is `40000`) | `11000`       |
 
 **sliderShape**
 
@@ -151,7 +147,7 @@ iro.js supports having more than one selectable colors on the same color picker 
 
 ### Setup
 
-The `colors` [config option](/guide.html#color-picker-options) can be used to provide an intial list of colors to the color picker. Any [supported color format](/color_api.html#supported-color-formats) will work here:
+The `colors` [config option](https://app.gitbook.com/guide.html#color-picker-options) can be used to provide an intial list of colors to the color picker. Any [supported color format](https://app.gitbook.com/color\_api.html#supported-color-formats) will work here:
 
 ```javascript
 var colorPicker = new iro.ColorPicker('#picker', {
@@ -165,9 +161,9 @@ var colorPicker = new iro.ColorPicker('#picker', {
 
 ### Working with Multiple Colors
 
-An array of color objects which can be used to **get** and **set** the value of each color can be found on the color picker's `colors` property. This array will be in the same order as the colors passed to the color picker during [setup]().
+An array of color objects which can be used to **get** and **set** the value of each color can be found on the color picker's `colors` property. This array will be in the same order as the colors passed to the color picker during [setup](broken-reference).
 
-It's worth checking out the [working with colors guide](/guide.html#working-with-colors) to learn more about how these individual color objects work, but here's a quick overview:
+It's worth checking out the [working with colors guide](https://app.gitbook.com/guide.html#working-with-colors) to learn more about how these individual color objects work, but here's a quick overview:
 
 ```javascript
 // set the first color to a new value
@@ -184,7 +180,7 @@ colorPicker.colors.forEach(function (color) {
 
 ### Events
 
-When working with [events](/guide.html#color-picker-events), it's important to remember that all of the color-change events \(like `color:change`, `input:change`, `input:start`, etc\) will fire for every color. To find which color fired the event, you can use the color's `index` property:
+When working with [events](https://app.gitbook.com/guide.html#color-picker-events), it's important to remember that all of the color-change events (like `color:change`, `input:change`, `input:start`, etc) will fire for every color. To find which color fired the event, you can use the color's `index` property:
 
 ```javascript
 colorPicker.on('color:change', function(color) {
@@ -312,4 +308,3 @@ var colorPicker = new iro.ColorPicker('#picker', {
 ```
 
 It's recommended to check out the interactive [Custom Handle Demo](https://codepen.io/rakujira/pen/vbeENp?editors=1010) on Codepen to get a better understanding of how this feature works.
-

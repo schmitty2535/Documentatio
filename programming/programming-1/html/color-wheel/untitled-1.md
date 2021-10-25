@@ -1,7 +1,3 @@
----
-title: ColorPicker API
----
-
 # Color Picker API
 
 The color picker API is the main feature of iro.js, and is accessible on `iro.ColorPicker`.
@@ -11,7 +7,7 @@ The color picker API is the main feature of iro.js, and is accessible on `iro.Co
 **Arguments:**
 
 * `{String | DOM Element}` CSS selector or DOM node for the color picker container
-* `{Object}` [color picker options]()
+* `{Object}` [color picker options](broken-reference)
 
 ## Options
 
@@ -23,7 +19,7 @@ The total width of the color picker UI, measured in pixels.
 
 ### `color`
 
-The default selected color. This option can be any [supported color format](/color_api.html#supported-color-formats).
+The default selected color. This option can be any [supported color format](https://app.gitbook.com/color\_api.html#supported-color-formats).
 
 **Default value**: `"#ffffff"`
 
@@ -41,7 +37,7 @@ HTML ID for the color picker root element.
 
 ### `layout`
 
-Component definition array used for [custom layouts](/advanced.html#custom-ui-layouts).
+Component definition array used for [custom layouts](https://app.gitbook.com/advanced.html#custom-ui-layouts).
 
 **Default value**: `null`
 
@@ -55,7 +51,7 @@ Component stacking direction; either `"vertical"` or `"horizontal"`.
 
 Width of the border around the controls, measured in pixels.
 
-**Default value**: `0` \(no border\)
+**Default value**: `0` (no border)
 
 ### `borderColor`
 
@@ -89,13 +85,13 @@ Overrides `handleRadius` for the handle of the currently selected color.
 
 ### `handleSvg`
 
-SVG reference for [Custom Handles](/advanced.html#custom-handles). This should be an ID selector that matches your handle SVG.
+SVG reference for [Custom Handles](https://app.gitbook.com/advanced.html#custom-handles). This should be an ID selector that matches your handle SVG.
 
-**Default value**: `null` \(default handle is used\)
+**Default value**: `null` (default handle is used)
 
 ### `handleProps`
 
-Properties for [Custom Handles](/advanced.html#custom-handles).
+Properties for [Custom Handles](https://app.gitbook.com/advanced.html#custom-handles).
 
 **Default value**: `{ x: 0, y: 0 }`
 
@@ -133,13 +129,13 @@ Box control height, measued in pixels.
 
 ### `color`
 
-An [`iro.Color`](/colorPicker_api.html) object representing the currently selected color. Updating this color object will also update the seclected color in the picker.
+An [`iro.Color`](https://app.gitbook.com/colorPicker\_api.html) object representing the currently selected color. Updating this color object will also update the seclected color in the picker.
 
-**See also:** [Using the Selected Color](/guide.html#color-picker-options)
+**See also:** [Using the Selected Color](https://app.gitbook.com/guide.html#color-picker-options)
 
 ### `colors`
 
-An array of [`iro.Color`](/colorPicker_api.html) objects representing the currently selected colors, used for [multicolor](/advanced.html#multicolor). Updating any of these color objects will also update the seclected color in the picker.
+An array of [`iro.Color`](https://app.gitbook.com/colorPicker\_api.html) objects representing the currently selected colors, used for [multicolor](https://app.gitbook.com/advanced.html#multicolor). Updating any of these color objects will also update the seclected color in the picker.
 
 ### `el`
 
@@ -170,7 +166,7 @@ Add a listener to a color picker event.
 
 **Arguments:**
 
-* `{String | Array}` [Event Type\(s\)]()
+* `{String | Array}` [Event Type(s)](broken-reference)
 * `{Function}` callback
 
 **Example:**
@@ -192,7 +188,7 @@ Remove event listeners that were registered with `on`.
 
 **Arguments:**
 
-* `{String | Array}` [Event Type\(s\)]()
+* `{String | Array}` [Event Type(s)](broken-reference)
 * `{Function}` callback
 
 **Example:**
@@ -220,8 +216,8 @@ Add another selectable color to the color picker.
 
 **Arguments:**
 
-* `{IroColorValue}` color value - The color to add, this can be an `iro.Color` or any [supported color format](/color_api.html#supported-color-formats).
-* `{Number}` color index \(optional\) - Defaults to the end of the color array
+* `{IroColorValue}` color value - The color to add, this can be an `iro.Color` or any [supported color format](https://app.gitbook.com/color\_api.html#supported-color-formats).
+* `{Number}` color index (optional) - Defaults to the end of the color array
 
 ### `removeColor`
 
@@ -233,7 +229,7 @@ Remove a color from the color picker.
 
 ### `setActiveColor`
 
-Set the currently 'active' color \(the color that is selected and highlighted\).
+Set the currently 'active' color (the color that is selected and highlighted).
 
 **Arguments:**
 
@@ -271,7 +267,7 @@ Used internally to dispatch an event. All function arguments after the event typ
 
 **Arguments:**
 
-* `{String}` [Event Type]()
+* `{String}` [Event Type](broken-reference)
 
 ### `deferredEmit`
 
@@ -279,11 +275,11 @@ Used internally to dispatch an deferred event. Deferred events are stored until 
 
 **Arguments:**
 
-* `{String}` [Event Type]()
+* `{String}` [Event Type](broken-reference)
 
 ## Events
 
-The color picker's [on]() method can be used to register callbacks for color picker events, such as when the selected color changes or when the user begins interacting with the picker. These callbacks can also be removed with the [off]() method.
+The color picker's [on](broken-reference) method can be used to register callbacks for color picker events, such as when the selected color changes or when the user begins interacting with the picker. These callbacks can also be removed with the [off](broken-reference) method.
 
 ### `color:change`
 
@@ -320,4 +316,3 @@ Fired whenever the 'active' color is switched. This event's callbacks will recei
 ### `mount`
 
 Fired when the colorPicker's UI has been mounted to the DOM and is ready for user interaction. The colorPicker object is passed to this event's callback function.
-

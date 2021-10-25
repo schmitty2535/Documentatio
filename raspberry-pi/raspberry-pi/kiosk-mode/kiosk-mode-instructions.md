@@ -12,13 +12,13 @@ Allowing VNC enables you to remotely access your raspberry pi from another compu
 
 **3.** Go to raspi-config and again and select boot options followed by "Desktop/CLI" and Enable Desktop Autologin
 
-**4.** Install xdotool and unclutter by running the following command `sudo apt-get install xdotool unclutter sed`
+**4. **Install xdotool and unclutter by running the following command `sudo apt-get install xdotool unclutter sed`
 
 {% hint style="info" %}
 Install xdotool and unclutter, xdotool: This tool will allow our bash script to execute key presses without anyone being on the device. Unclutter: This will enable us to hide the mouse from the display.
 {% endhint %}
 
-**5.** Create your kiosk bash script by running the following `nano /home/pi/kiosk.sh`Then copy and paste the following lines into the script file, and change "[https://google.com](https://google.com/)" \(located in the last line\) to the web address of the page you wish to open on boot. 
+**5. **Create your kiosk bash script by running the following `nano /home/pi/kiosk.sh`Then copy and paste the following lines into the script file, and change "[https://google.com](https://google.com)" (located in the last line) to the web address of the page you wish to open on boot.&#x20;
 
 {% code title="kiosk.sh" %}
 ```bash
@@ -78,13 +78,13 @@ When done press CTRL+X and they Y and finally ENTER
 
 Additional commands include
 
-```text
+```
    sudo systemctl stop kiosk.service
 ```
 
 and
 
-```text
+```
    sudo systemctl disable kiosk.service
 ```
 
@@ -95,4 +95,3 @@ IMPORTANT REMINDER- After editing the code it may be necessary to disable the ki
 {% hint style="warning" %}
 IMPORTAT: To get out of kiosk mode, click CTRL+F4
 {% endhint %}
-

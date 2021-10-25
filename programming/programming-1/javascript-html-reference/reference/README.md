@@ -1,6 +1,6 @@
 # Reference
 
-## Counter \(for loop\)
+## Counter (for loop)
 
 {% tabs %}
 {% tab title="Code Example" %}
@@ -50,7 +50,9 @@ function myFunction() {
 {% endtab %}
 
 {% tab title="Links" %}
-{% embed url="https://www.w3schools.com/jsref/jsref\_substr.asp" %}
+{% embed url="https://www.w3schools.com/jsref/jsref_substr.asp" %}
+
+
 {% endtab %}
 {% endtabs %}
 
@@ -96,7 +98,7 @@ fs.writeFile('/path/to/file', '', function(){console.log('done')})
 {% endtab %}
 {% endtabs %}
 
-## Padding a number \(ex. 1  -&gt;  001\)
+## Padding a number (ex. 1  ->  001)
 
 {% tabs %}
 {% tab title="Code Example" %}
@@ -124,13 +126,13 @@ function padDigits(number, digits) {
 {% endtab %}
 
 {% tab title="Links" %}
-{% embed url="https://www.cssscript.com/sleek-html5-javascript-color-picker-iro-js/\#methods" %}
+{% embed url="https://www.cssscript.com/sleek-html5-javascript-color-picker-iro-js/#methods" %}
 {% endtab %}
 {% endtabs %}
 
 
 
-## Reload HTML Page with JavaScript 
+## Reload HTML Page with JavaScript&#x20;
 
 {% tabs %}
 {% tab title="Code" %}
@@ -140,7 +142,7 @@ location.reload();
 {% endtab %}
 
 {% tab title="Links" %}
-{% embed url="https://www.w3schools.com/jsref/met\_loc\_reload.asp" %}
+{% embed url="https://www.w3schools.com/jsref/met_loc_reload.asp" %}
 {% endtab %}
 {% endtabs %}
 
@@ -169,7 +171,7 @@ setInterval(function(){
 
 {% tabs %}
 {% tab title="Function JS" %}
-```text
+```
 function scale (number, inMin, inMax, outMin, outMax) {
     return (number - inMin) * (outMax - outMin) / (inMax - inMin) + outMin;
 }
@@ -210,7 +212,7 @@ function check1(oldvalue) {
 
 
 
-{% embed url="https://www.w3schools.com/js/js\_arrays.asp" %}
+{% embed url="https://www.w3schools.com/js/js_arrays.asp" %}
 
 {% embed url="https://www.geeksforgeeks.org/how-to-add-a-delay-in-a-javascript-loop/" %}
 
@@ -237,7 +239,7 @@ let object2 = {
 
 {% embed url="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this" %}
 
-{% embed url="https://www.w3schools.com/js/js\_switch.asp" %}
+{% embed url="https://www.w3schools.com/js/js_switch.asp" %}
 
 {% embed url="https://zellwk.com/blog/css-values-in-js/" %}
 
@@ -265,8 +267,5 @@ let object2 = {
 
 
 
-[  
-](
-https://codepen.io/pen/?template=yLMGxPY
-)
-
+[\
+](https://codepen.io/pen/?template=yLMGxPY)

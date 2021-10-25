@@ -47,7 +47,7 @@ if (isNaN(args[0])) {
 {% endtab %}
 {% endtabs %}
 
-## Simple JSONdb- A simple, no-frills, JSON storage 
+## Simple JSONdb- A simple, no-frills, JSON storage&#x20;
 
 {% tabs %}
 {% tab title="Example" %}
@@ -143,7 +143,7 @@ Documentation can be found at https://github.com/IonicaBizau/idea
 {% endtab %}
 {% endtabs %}
 
-## Prompts- simple command line interface \(questions\)
+## Prompts- simple command line interface (questions)
 
 {% tabs %}
 {% tab title="Example" %}
@@ -167,7 +167,7 @@ Documentation can be found at https://github.com/IonicaBizau/idea
 {% endtab %}
 {% endtabs %}
 
-## Config- .JSON configuration files 
+## Config- .JSON configuration files&#x20;
 
 {% tabs %}
 {% tab title="Example" %}
@@ -190,6 +190,8 @@ Documentation can be found at https://github.com/IonicaBizau/idea
 
 {% tab title="Links" %}
 {% embed url="https://www.npmjs.com/package/enquirer" %}
+
+
 {% endtab %}
 {% endtabs %}
 
@@ -205,7 +207,7 @@ Documentation can be found at https://github.com/IonicaBizau/idea
 {% endtab %}
 {% endtabs %}
 
-##  Figlet- Ascii text generator
+## &#x20;Figlet- Ascii text generator
 
 {% tabs %}
 {% tab title="Example" %}
@@ -229,7 +231,7 @@ Documentation can be found at https://github.com/IonicaBizau/idea
 {% endtab %}
 {% endtabs %}
 
-#### 
+####
 
 {% embed url="https://www.npmjs.com/package/fs-extra" %}
 
@@ -263,7 +265,7 @@ Documentation can be found at https://github.com/IonicaBizau/idea
 
 {% embed url="https://www.geeksforgeeks.org/find-the-length-of-a-javascript-object/" %}
 
-{% embed url="https://jsfiddle.net/red\_stapler/u5aanta8/1/" %}
+{% embed url="https://jsfiddle.net/red_stapler/u5aanta8/1/" %}
 
 {% embed url="https://www.chartjs.org/docs/latest/samples/bar/vertical.html" %}
 
@@ -273,9 +275,7 @@ Documentation can be found at https://github.com/IonicaBizau/idea
 
 
 
-#### 
-
-
+####
 
 
 

@@ -1,7 +1,3 @@
----
-title: Color API
----
-
 # Color API
 
 The Color API is used by color pickers to store the selected color and to handle conversions between different color models. It's also made accessible via `iro.Color` so that it can be used as a general color utility library.
@@ -10,7 +6,7 @@ The Color API is used by color pickers to store the selected color and to handle
 
 **Arguments:**
 
-* `{String | Object | Color}` Initial color. This can be any [supported color format](), or another Color instance.
+* `{String | Object | Color}` Initial color. This can be any [supported color format](broken-reference), or another Color instance.
 
 ## Supported Color Formats
 
@@ -23,7 +19,7 @@ The Color API is used by color pickers to store the selected color and to handle
 * **Percentage RGB string**: `"rgb(100%, 0%, 0%)"`
 * **Percentage RGBA string**: `"rgba(100%, 0%, 0%, 100%)"`
 * **RGB object**: `{r: 255, g: 0, b: 0}`
-* **RGBA object**: `{r: 255, g: 0, b: 0, a: 1}` 
+* **RGBA object**: `{r: 255, g: 0, b: 0, a: 1}`&#x20;
 * **HSL string**: `"hsl(360, 50%, 100%)"`
 * **HSLA string**: `"hsla(360, 50%, 100%, 1)"`
 * **HSL object**: `{h: 360, s: 50, l: 100}`
@@ -69,37 +65,37 @@ The color's approximate kelvin temperature.
 
 ### `rgb`
 
-The color as an [RGB](https://www.wikiwand.com/en/RGB_color_model) object.
+The color as an [RGB](https://www.wikiwand.com/en/RGB\_color\_model) object.
 
 **Example format**: `{r: 255, g: 0, b: 0}`
 
 ### `rgba`
 
-The color as an [RGBA](https://www.wikiwand.com/en/RGB_color_model) object, where `a` represents the color's transparency.
+The color as an [RGBA](https://www.wikiwand.com/en/RGB\_color\_model) object, where `a` represents the color's transparency.
 
 **Example format**: `{r: 255, g: 0, b: 0, a: 1}`
 
 ### `hsv`
 
-The color as a [HSV](https://www.wikiwand.com/en/HSL_and_HSV) object.
+The color as a [HSV](https://www.wikiwand.com/en/HSL\_and\_HSV) object.
 
 **Example format**: `{h: 360, s: 100, v: 50}`
 
 ### `hsva`
 
-The color as a [HSVA](https://www.wikiwand.com/en/HSL_and_HSV) object, where `a` represents the color's transparency.
+The color as a [HSVA](https://www.wikiwand.com/en/HSL\_and\_HSV) object, where `a` represents the color's transparency.
 
 **Example format**: `{h: 360, s: 100, v: 50, a: 1}`
 
 ### `hsl`
 
-The color as a [HSL](https://www.wikiwand.com/en/HSL_and_HSV) object.
+The color as a [HSL](https://www.wikiwand.com/en/HSL\_and\_HSV) object.
 
 **Example format**: `{h: 360, s: 50, l: 100}`
 
 ### `hsla`
 
-The color as a [HSLA](https://www.wikiwand.com/en/HSL_and_HSV) object, where `a` represents the color's transparency.
+The color as a [HSLA](https://www.wikiwand.com/en/HSL\_and\_HSV) object, where `a` represents the color's transparency.
 
 **Example format**: `{h: 360, s: 50, l: 100, a: 1}`
 
@@ -147,7 +143,7 @@ The color's index.
 
 ### `set`
 
-Set the color from any [supported color format]().
+Set the color from any [supported color format](broken-reference).
 
 **Arguments**:
 
@@ -244,4 +240,3 @@ Convert an RGB object to an approximated kelvin temperature.
 * `{Object}` RGB values, e.g `{r: 255, g: 0, b: 0}`
 
 **Returns**: `{Number}` kelvin temperature
-

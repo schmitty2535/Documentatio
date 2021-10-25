@@ -1,14 +1,14 @@
-# Object\(\) constructor - JavaScript \| MDN
+# Object() constructor - JavaScript | MDN
 
 The **`Object` constructor** creates an object wrapper for the given value.
 
-* If the value is [`null`](/en-US/docs/Web/JavaScript/Reference/Global_Objects/null) or [`undefined`](/en-US/docs/Web/JavaScript/Reference/Global_Objects/undefined), it will create and return an empty object.
+* If the value is [`null`](https://app.gitbook.com/en-US/docs/Web/JavaScript/Reference/Global\_Objects/null) or [`undefined`](https://app.gitbook.com/en-US/docs/Web/JavaScript/Reference/Global\_Objects/undefined), it will create and return an empty object.
 * Otherwise, it will return an object of a Type that corresponds to the given value.
 * If the value is an object already, it will return the value.
 
 When called in a non-constructor context, `Object` behaves identically to `new Object()`.
 
-## Syntax <a id="syntax"></a>
+## Syntax <a href="syntax" id="syntax"></a>
 
 ```javascript
 new Object()
@@ -19,9 +19,9 @@ new Object(value)
 
 `Value` Any value.
 
-## Examples <a id="examples"></a>
+## Examples <a href="examples" id="examples"></a>
 
-### Creating a new Object <a id="creating_a_new_object"></a>
+### Creating a new Object <a href="creating_a_new_object" id="creating_a_new_object"></a>
 
 ```javascript
 let o = new Object()
@@ -31,29 +31,28 @@ console.log(o)
 //Object { foo:42 }
 ```
 
-### Using Object given undefined and null types <a id="using_object_given_undefined_and_null_types"></a>
+### Using Object given undefined and null types <a href="using_object_given_undefined_and_null_types" id="using_object_given_undefined_and_null_types"></a>
 
 The following examples store an empty `Object` object in `o`:
 
-```text
+```
 let o = new Object()
 ```
 
-```text
+```
 let o = new Object(undefined)
 ```
 
-```text
+```
 let o = new Object(null)
 ```
 
-## Specifications <a id="specifications"></a>
+## Specifications <a href="specifications" id="specifications"></a>
 
-| Specification |
-| :--- |
-| [ECMAScript Language Specification \(ECMAScript\) \# sec-object-constructor](https://tc39.es/ecma262/multipage/fundamental-objects.html#sec-object-constructor) |
+| Specification                                                                                                                                                                     |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <p><a href="https://tc39.es/ecma262/multipage/fundamental-objects.html#sec-object-constructor">ECMAScript Language Specification (ECMAScript)<br># sec-object-constructor</a></p> |
 
-## See also <a id="see_also"></a>
+## See also <a href="see_also" id="see_also"></a>
 
-{% embed url="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global\_Objects/Object/Object" %}
-
+{% embed url="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/Object" %}

@@ -166,15 +166,15 @@ void loop() {
 
 #### Subscribing to MQTT topics
 
-In the _reconnect\(\)_ function, you can subscribe to MQTT topics. In this case, the ESP32 is only subscribed to the **esp32/output**:
+In the _reconnect()_ function, you can subscribe to MQTT topics. In this case, the ESP32 is only subscribed to the** esp32/output**:
 
-```text
+```
 client.subscribe("esp32/output");
 ```
 
-In the _callback\(\)_ function, the ESP32 receives the MQTT messages of the subscribed topics. According to the MQTT topic and message, it turns the LED on or off:
+In the _callback()_ function, the ESP32 receives the MQTT messages of the subscribed topics. According to the MQTT topic and message, it turns the LED on or off:
 
-```text
+```
 // If a message is received on the topic esp32/output, you check if the message is either "on" or "off". 
 // Changes the output state according to the message
 if (String(topic) == "esp32/output") {
@@ -192,15 +192,15 @@ if (String(topic) == "esp32/output") {
 
 #### Publishing MQTT messages
 
-In the _loop\(\),_ new readings are being published every 5 seconds:
+In the _loop(),_ new readings are being published every 5 seconds:
 
-```text
+```
 if (now - lastMsg > 5000) { ... }
 ```
 
 By default the ESP32 is sending the temperature in Celsius, but you can uncomment the last line to send the temperature in Fahrenheit:
 
-```text
+```
 // Temperature in Celsius
 temperature = bme.readTemperature(); 
 // Uncomment the next line to set temperature in Fahrenheit 
@@ -210,7 +210,7 @@ temperature = bme.readTemperature();
 
 You need to convert the temperature float variable to a char array, so that you can publish the temperature reading in the **esp32/temperature** topic:
 
-```text
+```
 // Convert the value to a char array
 char tempString[8];
 dtostrf(temperature, 1, 2, tempString);
@@ -221,7 +221,7 @@ client.publish("esp32/temperature", tempString);
 
 The same process is repeated to publish the humidity reading in the **esp32/humidity** topic:
 
-```text
+```
 humidity = bme.readHumidity();
 // Convert the value to a char array
 char humString[8];
@@ -230,4 +230,3 @@ Serial.print("Humidity: ");
 Serial.println(humString);
 client.publish("esp32/humidity", humString);
 ```
-

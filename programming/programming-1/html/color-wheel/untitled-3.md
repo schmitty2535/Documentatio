@@ -1,13 +1,8 @@
----
-layout: Home
-home: true
----
-
 # index
 
 ::: slot introduction Modular, design-conscious color picker widget for JavaScript :::
 
-::: slot feature-colors Work with colors in hex, RGB, HSV and HSL formats \(plus kelvin temperatures!\) in one simple, frictionless API. :::
+::: slot feature-colors Work with colors in hex, RGB, HSV and HSL formats (plus kelvin temperatures!) in one simple, frictionless API. :::
 
 ::: slot feature-colors-example
 
@@ -65,15 +60,15 @@ When you manually include the library like this, iro.js will be made globally av
 
 ### Or download and host yourself
 
-[**Development version**](https://raw.githubusercontent.com/jaames/iro.js/master/dist/iro.js)  
- Uncompressed, with source comments included. Intended for debugging.
+[**Development version**](https://raw.githubusercontent.com/jaames/iro.js/master/dist/iro.js)\
+&#x20;Uncompressed, with source comments included. Intended for debugging.
 
-[**Production version**](https://raw.githubusercontent.com/jaames/iro.js/master/dist/iro.min.js)  
- Minified and optimized version.
+[**Production version**](https://raw.githubusercontent.com/jaames/iro.js/master/dist/iro.min.js)\
+&#x20;Minified and optimized version.
 
 ## Color Picker Setup
 
-First, we need a HTML element with a unique identifier \(such as an `id` attribute\) to act as a container for the color picker:
+First, we need a HTML element with a unique identifier (such as an `id` attribute) to act as a container for the color picker:
 
 ```markup
 <div id="picker"></div>
@@ -100,7 +95,7 @@ var colorPicker = new iro.ColorPicker("#picker", {
 });
 ```
 
-A full list of color picker options can be found in the [options documentation](guide.html#color-picker-options).
+A full list of color picker options can be found in the [options documentation](https://app.gitbook.com/s/-MW-a3EiOh7gcpPdqKN3/programming/programming-1/html/color-wheel/guide.html#color-picker-options).
 
 ## Working with Colors
 
@@ -118,13 +113,13 @@ colorPicker.color.hsl = { h: 180, s: 100, l: 50 };
 // Color picker updates to match hsl(180, 100, 50)
 ```
 
-A full list of color properties can be found in the [color documentation](/guide.html#working-with-colors).
+A full list of color properties can be found in the [color documentation](https://app.gitbook.com/guide.html#working-with-colors).
 
 ## Events
 
 Events let you to run your own code after certain things have happened, like when the selected color has changed or when the user has interacted with the color picker.
 
-The color picker's [`on`](colorPicker_api.html#on) method can be used to attach functions that will be called whenever a particular event is fired. For example, we can add a listener that fires whenever the color is changed:
+The color picker's [`on`](https://app.gitbook.com/s/-MW-a3EiOh7gcpPdqKN3/programming/programming-1/html/color-wheel/colorPicker\_api.html#on) method can be used to attach functions that will be called whenever a particular event is fired. For example, we can add a listener that fires whenever the color is changed:
 
 ```javascript
 // listen to a color picker's color:change event
@@ -135,5 +130,4 @@ colorPicker.on('color:change', function(color) {
 });
 ```
 
-For a full overview of the available events can be found in the [events documentation](/guide.html#color-picker-events). :::
-
+For a full overview of the available events can be found in the [events documentation](https://app.gitbook.com/guide.html#color-picker-events). :::
