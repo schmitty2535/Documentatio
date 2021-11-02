@@ -20,5 +20,6 @@ Z Probe setup and config
 
 {% embed url="https://docs.vorondesign.com/community/howto/120decibell/z_endstop_configuration.html" %}
 
+{% embed url="https://github.com/VoronDesign/Voron-2/blob/Voron2.2/STLs/TEST_PRINTS/Filament%20Card.stl" %}
 
-
+{% embed url="https://github.com/VoronDesign/Voron-2/blob/Voron2.2/STLs/TEST_PRINTS/Filament%20Card%20Caddy%2025.stl" %}

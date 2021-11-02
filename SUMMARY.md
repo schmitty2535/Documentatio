@@ -27,6 +27,9 @@
 
 ## 3D Printing
 
+* [Klipper](3d-printing/klipper.md)
+* [Input Shaper](3d-printing/input-shaper.md)
+* [CAD](3d-printing/cad.md)
 * [Non-Ender 3 Pro](3d-printing/non-ender-3-pro/README.md)
   * [Electronics Design](3d-printing/non-ender-3-pro/electronics-design/README.md)
     * [SKR-V1.3](3d-printing/non-ender-3-pro/electronics-design/skr-v1.3.md)
@@ -35,6 +38,12 @@
   * [printer.cfg](3d-printing/non-ender-3-pro/printer.cfg/README.md)
     * [3.19.21](3d-printing/non-ender-3-pro/printer.cfg/3.19.21.md)
 * [Voron](3d-printing/untitled/README.md)
+  * [Switchwire](3d-printing/untitled/switchwire.md)
+  * [V2.4](3d-printing/untitled/v2.4.md)
+  * [Afterburner PCB](3d-printing/untitled/afterburner-pcb.md)
+  * [Galileo](3d-printing/untitled/galileo.md)
+  * [Enraged Rabbit](3d-printing/untitled/enraged-rabbit.md)
+  * [Nevermore](3d-printing/untitled/nevermore.md)
   * [Links](3d-printing/untitled/links.md)
 
 ## Alamods
