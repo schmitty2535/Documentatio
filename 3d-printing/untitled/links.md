@@ -23,3 +23,7 @@ Z Probe setup and config
 {% embed url="https://github.com/VoronDesign/Voron-2/blob/Voron2.2/STLs/TEST_PRINTS/Filament%20Card.stl" %}
 
 {% embed url="https://github.com/VoronDesign/Voron-2/blob/Voron2.2/STLs/TEST_PRINTS/Filament%20Card%20Caddy%2025.stl" %}
+
+Hinges&#x20;
+
+{% embed url="https://www.thingiverse.com/thing:4804593" %}
