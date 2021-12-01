@@ -27,3 +27,7 @@ Z Probe setup and config
 Hinges&#x20;
 
 {% embed url="https://www.thingiverse.com/thing:4804593" %}
+
+
+
+{% embed url="https://www.prusaprinters.org/prints/70670-infill-patterns-for-prusaslicer" %}

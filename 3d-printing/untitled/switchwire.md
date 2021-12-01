@@ -1,5 +1,7 @@
 # Switchwire
 
+
+
 Mods
 
 * 9MM Y Belt MOD [https://www.teamfdm.com/files/file/56-voronsw-9mm-belt-mod/?tab=details](https://www.teamfdm.com/files/file/56-voronsw-9mm-belt-mod/?tab=details) [https://github.com/VoronDesign/VoronUsers/tree/master/printer\_mods/consibonsi/Y-Mod\_SW\_9mm](https://github.com/VoronDesign/VoronUsers/tree/master/printer\_mods/consibonsi/Y-Mod\_SW\_9mm)
@@ -11,4 +13,16 @@ Mods
 
 Build Example
 
-[https://hackaday.io/project/174810-voron-switchwire-3d-printer](https://hackaday.io/project/174810-voron-switchwire-3d-printer)
+{% embed url="https://hackaday.io/project/174810-voron-switchwire-3d-printer" %}
+
+{% embed url="https://www.thingiverse.com/thing:4804593" %}
+
+{% embed url="https://www.thingiverse.com/thing:2075219" %}
+
+{% embed url="https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/gen2eng/z_carriage_stop_pass_through" %}
+
+{% embed url="https://github.com/Moxie1776/Switchwire/tree/master/klipper" %}
+
+{% embed url="https://github.com/hymness1/Switchwire_Things/blob/main/klipper_config/printer.cfg" %}
+
+{% embed url="https://www.youtube.com/watch?v=hDv73AdiBqM" %}
