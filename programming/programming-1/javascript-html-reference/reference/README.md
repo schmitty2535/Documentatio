@@ -265,7 +265,8 @@ let object2 = {
 
 {% embed url="https://atomiks.github.io/tippyjs/v6/html-content/" %}
 
+{% embed url="https://www.w3schools.com/jsref/met_console_table.asp" %}
 
+{% embed url="https://developer.mozilla.org/en-US/docs/Web/API/Element/mousemove_event" %}
 
-[\
-](https://codepen.io/pen/?template=yLMGxPY)
+{% embed url="https://css-tricks.com/the-notch-and-css" %}

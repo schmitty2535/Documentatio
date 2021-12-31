@@ -273,7 +273,7 @@ Documentation can be found at https://github.com/IonicaBizau/idea
 
 {% embed url="https://stackoverflow.com/questions/15987140/how-to-check-if-an-item-is-selected-from-an-html-drop-down-list" %}
 
-
+{% embed url="https://docs.npmjs.com/cli/v7/commands/npm-pack" %}
 
 ####
 
