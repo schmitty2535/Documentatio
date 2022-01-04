@@ -275,7 +275,7 @@ Documentation can be found at https://github.com/IonicaBizau/idea
 
 {% embed url="https://docs.npmjs.com/cli/v7/commands/npm-pack" %}
 
-####
+{% embed url="https://www.codegrepper.com/code-examples/javascript/use+moment.js+in+html" %}
 
-
+{% embed url="https://www.tutorialspoint.com/momentjs/momentjs_quick_guide.htm" %}
 

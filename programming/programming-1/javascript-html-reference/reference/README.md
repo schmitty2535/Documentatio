@@ -265,8 +265,52 @@ let object2 = {
 
 {% embed url="https://atomiks.github.io/tippyjs/v6/html-content/" %}
 
+## Console.table
+
+{% tabs %}
+{% tab title="First Tab" %}
+```javascript
+console.table(["Audi", "Volvo", "Ford"]);
+```
+{% endtab %}
+
+{% tab title="Second Tab" %}
+
+
+|   |         |
+| - | ------- |
+| 0 | 'Audi'  |
+| 1 | 'Volvo' |
+| 2 | 'Ford'  |
+|   |         |
+
+1. Array(3)
+{% endtab %}
+{% endtabs %}
+
 {% embed url="https://www.w3schools.com/jsref/met_console_table.asp" %}
+
+## Mousemove Event
 
 {% embed url="https://developer.mozilla.org/en-US/docs/Web/API/Element/mousemove_event" %}
 
+## Iphone Notch
+
 {% embed url="https://css-tricks.com/the-notch-and-css" %}
+
+{% embed url="https://dev.to/karmasakshi/make-your-pwas-look-handsome-on-ios-1o08" %}
+
+{% embed url="https://medium.com/appscope/changing-the-ios-status-bar-of-your-progressive-web-app-9fc8fbe8e6ab" %}
+
+## Scroll to the bottom of a HTML element
+
+```javascript
+var objDiv = document.getElementById("divExample");
+objDiv.scrollTop = objDiv.scrollHeight;
+```
+
+{% embed url="https://www.w3schools.com/css/css_overflow.asp" %}
+
+{% embed url="https://www.w3schools.com/cssref/css3_pr_word-wrap.asp" %}
+
+{% embed url="https://www.w3docs.com/snippets/javascript/how-to-detect-a-click-outside-an-element.html" %}

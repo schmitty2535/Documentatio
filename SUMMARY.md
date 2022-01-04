@@ -70,6 +70,7 @@
       * [Advanced](programming/programming-1/html/color-wheel/advanced.md)
   * [Javascript/HTML Reference](programming/programming-1/javascript-html-reference/README.md)
     * [Reference](programming/programming-1/javascript-html-reference/reference/README.md)
+      * [Javascript Prototype](programming/programming-1/javascript-html-reference/reference/javascript-prototype.md)
       * [Object() constructor - JavaScript | MDN](programming/programming-1/javascript-html-reference/reference/untitled-1.md)
       * [How to Use Object Destructuring in JavaScript](programming/programming-1/javascript-html-reference/reference/untitled.md)
   * [NPM](programming/programming-1/npm/README.md)
