@@ -12,13 +12,13 @@ Allowing VNC enables you to remotely access your raspberry pi from another compu
 
 **3.** Go to raspi-config and again and select boot options followed by "Desktop/CLI" and Enable Desktop Autologin
 
-**4. **Install xdotool and unclutter by running the following command `sudo apt-get install xdotool unclutter sed`
+**4.** Install xdotool and unclutter by running the following command `sudo apt-get install xdotool unclutter sed`
 
 {% hint style="info" %}
 Install xdotool and unclutter, xdotool: This tool will allow our bash script to execute key presses without anyone being on the device. Unclutter: This will enable us to hide the mouse from the display.
 {% endhint %}
 
-**5. **Create your kiosk bash script by running the following `nano /home/pi/kiosk.sh`Then copy and paste the following lines into the script file, and change "[https://google.com](https://google.com)" (located in the last line) to the web address of the page you wish to open on boot.&#x20;
+**5.** Create your kiosk bash script by running the following `nano /home/pi/kiosk.sh`Then copy and paste the following lines into the script file, and change "[https://google.com](https://google.com)" (located in the last line) to the web address of the page you wish to open on boot.&#x20;
 
 {% code title="kiosk.sh" %}
 ```bash
@@ -43,7 +43,7 @@ When done press CTRL+X and they Y and finally ENTER
 Pay close attention to http vs. https in your URL
 {% endhint %}
 
-**6.** Run the following and record the output for later use `echo $Display`
+**6.** Run the following and record the output for later use `echo $DISPLAY`
 
 **7.** Create a service file to instruct the operating system what file you wish to be executed as well as specifying that the GUI should boot before starting up the software `sudo nano /lib/systemd/system/kiosk.service`Then copy the following code and if necessary, modify the "Environment=DISPLAY=0" to whatever value you received from **step 6**
 
