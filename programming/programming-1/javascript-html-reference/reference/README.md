@@ -314,3 +314,9 @@ objDiv.scrollTop = objDiv.scrollHeight;
 {% embed url="https://www.w3schools.com/cssref/css3_pr_word-wrap.asp" %}
 
 {% embed url="https://www.w3docs.com/snippets/javascript/how-to-detect-a-click-outside-an-element.html" %}
+
+{% embed url="https://shadows.brumm.af" %}
+
+{% embed url="https://neumorphism.io/#e0e0e0" %}
+
+{% embed url="https://loading.io/progress" %}
