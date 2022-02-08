@@ -320,3 +320,7 @@ objDiv.scrollTop = objDiv.scrollHeight;
 {% embed url="https://neumorphism.io/#e0e0e0" %}
 
 {% embed url="https://loading.io/progress" %}
+
+{% embed url="https://codezup.com/add-dynamic-key-to-object-property-in-javascript" %}
+
+{% embed url="https://stackoverflow.com/questions/3298477/get-the-first-key-name-of-a-javascript-object" %}

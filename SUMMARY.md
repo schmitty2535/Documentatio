@@ -107,3 +107,4 @@
 ***
 
 * [PM2](pm2.md)
+* [arduino cli](arduino-cli.md)
