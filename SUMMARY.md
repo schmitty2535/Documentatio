@@ -5,6 +5,7 @@
 ## Raspberry Pi
 
 * [Raspberry Pi](raspberry-pi/raspberry-pi/README.md)
+  * [Pins](raspberry-pi/raspberry-pi/pins.md)
   * [Build an MQTT Server Using Raspberry Pi](raspberry-pi/raspberry-pi/build-an-mqtt-server-using-raspberry-pi.md)
   * [Static IP](raspberry-pi/raspberry-pi/static-ip.md)
   * [Scripts](raspberry-pi/raspberry-pi/scripts.md)
@@ -19,6 +20,7 @@
   * [Kiosk Mode](raspberry-pi/raspberry-pi/kiosk-mode/README.md)
     * [Kiosk Mode Instructions](raspberry-pi/raspberry-pi/kiosk-mode/kiosk-mode-instructions.md)
     * [Kiosk Command List](raspberry-pi/raspberry-pi/kiosk-mode/command-list.md)
+  * [RTC](raspberry-pi/raspberry-pi/rtc.md)
 
 ## ESP32/8266 <a href="#esp32-8266-1" id="esp32-8266-1"></a>
 
@@ -77,6 +79,7 @@
     * [NPM Packages](programming/programming-1/npm/npm-packages/README.md)
       * [List of NPM packages](programming/programming-1/npm/npm-packages/list-of-npm-packages.md)
       * [Barcode](programming/programming-1/npm/npm-packages/barcode.md)
+      * [JOI](programming/programming-1/npm/npm-packages/joi.md)
     * [NPM Reference Docs](programming/programming-1/npm/npm-package/README.md)
       * [A Simple Guide to Publishing an npm Package](programming/programming-1/npm/npm-package/untitled.md)
       * [Updating your published package version number](programming/programming-1/npm/npm-package/updating-your-published-package-version-number.md)
@@ -108,3 +111,4 @@
 
 * [PM2](pm2.md)
 * [arduino cli](arduino-cli.md)
+* [Stats](stats.md)

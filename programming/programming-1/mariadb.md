@@ -12,15 +12,15 @@ Joining Tables with JOIN Clauses
 
 {% embed url="https://mariadb.com/kb/en/decimal" %}
 
+{% embed url="https://www.shellhacks.com/mysql-show-users-privileges-passwords" %}
 
+{% embed url="https://www.shellhacks.com/howto-change-a-users-password-in-mysql" %}
 
+{% embed url="https://mariadb.com/kb/en/grant#the-usage-privilege" %}
 
+{% embed url="https://www.oreilly.com/library/view/learning-mysql/0596008643/ch09s04.html" %}
 
-
-
-
-
-
+{% embed url="https://www.jetbrains.com/help/datagrip/database-users-and-roles.html" %}
 
 
 
