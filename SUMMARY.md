@@ -5,6 +5,7 @@
 ## Raspberry Pi
 
 * [Raspberry Pi](raspberry-pi/raspberry-pi/README.md)
+  * [Page 2](raspberry-pi/raspberry-pi/page-2.md)
   * [Pins](raspberry-pi/raspberry-pi/pins.md)
   * [Build an MQTT Server Using Raspberry Pi](raspberry-pi/raspberry-pi/build-an-mqtt-server-using-raspberry-pi.md)
   * [Static IP](raspberry-pi/raspberry-pi/static-ip.md)
@@ -24,6 +25,7 @@
 
 ## ESP32/8266 <a href="#esp32-8266-1" id="esp32-8266-1"></a>
 
+* [ESPTOOL](esp32-8266-1/esptool.md)
 * [ESP MQTT](esp32-8266-1/esp-mqtt.md)
 * [Untitled](esp32-8266-1/untitled.md)
 
@@ -57,7 +59,9 @@
 ## Programming
 
 * [Programming](programming/programming-1/README.md)
+  * [Ubuntu](programming/programming-1/ubuntu.md)
   * [mySQL](programming/programming-1/mysql/README.md)
+    * [Replication](programming/programming-1/mysql/replication.md)
     * [Reference](programming/programming-1/mysql/reference.md)
   * [MariaDB](programming/programming-1/mariadb.md)
   * [SSH Tools](programming/programming-1/ssh-tools/README.md)
@@ -72,10 +76,12 @@
       * [Advanced](programming/programming-1/html/color-wheel/advanced.md)
   * [Javascript/HTML Reference](programming/programming-1/javascript-html-reference/README.md)
     * [Reference](programming/programming-1/javascript-html-reference/reference/README.md)
+      * [Promises](programming/programming-1/javascript-html-reference/reference/promises.md)
       * [Javascript Prototype](programming/programming-1/javascript-html-reference/reference/javascript-prototype.md)
       * [Object() constructor - JavaScript | MDN](programming/programming-1/javascript-html-reference/reference/untitled-1.md)
       * [How to Use Object Destructuring in JavaScript](programming/programming-1/javascript-html-reference/reference/untitled.md)
   * [NPM](programming/programming-1/npm/README.md)
+    * [System Info/Wireless Info](programming/programming-1/npm/system-info-wireless-info.md)
     * [NPM Packages](programming/programming-1/npm/npm-packages/README.md)
       * [List of NPM packages](programming/programming-1/npm/npm-packages/list-of-npm-packages.md)
       * [Barcode](programming/programming-1/npm/npm-packages/barcode.md)
@@ -93,6 +99,7 @@
     * [RGB DLED](projects/projects-1/work/rgb-dled.md)
     * [Camera Inspection](projects/projects-1/work/untitled.md)
   * [Home](projects/projects-1/home/README.md)
+    * [Maps App](projects/projects-1/home/maps-app.md)
     * [Magic Mirror](projects/projects-1/home/magic-mirror/README.md)
       * [index](projects/projects-1/home/magic-mirror/untitled.md)
 
