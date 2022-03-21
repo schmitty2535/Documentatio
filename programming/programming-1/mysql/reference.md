@@ -24,3 +24,4 @@ SELECT DISTINCT department_id FROM employees;
 
 {% embed url="https://stackoverflow.com/questions/11448068/mysql-error-code-1175-during-update-in-mysql-workbench" %}
 
+[https://stackoverflow.com/questions/56021225/sql-server-multiple-database-nodejs-connection](https://stackoverflow.com/questions/56021225/sql-server-multiple-database-nodejs-connection)

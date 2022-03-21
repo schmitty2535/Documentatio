@@ -22,7 +22,7 @@ Joining Tables with JOIN Clauses
 
 {% embed url="https://www.jetbrains.com/help/datagrip/database-users-and-roles.html" %}
 
-
+{% embed url="https://stackoverflow.com/questions/56021225/sql-server-multiple-database-nodejs-connection" %}
 
 
 
