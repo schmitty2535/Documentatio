@@ -166,7 +166,7 @@ void loop() {
 
 #### Subscribing to MQTT topics
 
-In the _reconnect()_ function, you can subscribe to MQTT topics. In this case, the ESP32 is only subscribed to the** esp32/output**:
+In the _reconnect()_ function, you can subscribe to MQTT topics. In this case, the ESP32 is only subscribed to the **esp32/output**:
 
 ```
 client.subscribe("esp32/output");

@@ -120,7 +120,13 @@
 * [PM2](pm2.md)
 * [arduino cli](arduino-cli.md)
 * [Stats](stats.md)
+* [Semver](semver.md)
 
-## Ubuntu
+## Homelab
 
-* [Page 3](ubuntu/page-3.md)
+* [Upcoming projects](homelab/upcoming-projects.md)
+* [Services](homelab/services/README.md)
+  * [Docker & Docker Compose](homelab/services/docker-and-docker-compose.md)
+  * [Uptime Kuma](homelab/services/uptime-kuma.md)
+  * [Heimdall Dashboard](homelab/services/heimdall-dashboard.md)
+* [Page 3](homelab/page-3.md)
