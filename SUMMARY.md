@@ -129,4 +129,5 @@
   * [Docker & Docker Compose](homelab/services/docker-and-docker-compose.md)
   * [Uptime Kuma](homelab/services/uptime-kuma.md)
   * [Heimdall Dashboard](homelab/services/heimdall-dashboard.md)
-* [Reference](homelab/reference.md)
+* [Reference](homelab/reference/README.md)
+  * [UFW Essentials: Common Firewall Rules and Commands](homelab/reference/ufw-essentials-common-firewall-rules-and-commands.md)
