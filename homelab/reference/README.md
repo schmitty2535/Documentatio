@@ -165,3 +165,5 @@ Where NUM is the rule numbered. For example, ufw delete 5,would remove the fifth
 {% content-ref url="ufw-essentials-common-firewall-rules-and-commands.md" %}
 [ufw-essentials-common-firewall-rules-and-commands.md](ufw-essentials-common-firewall-rules-and-commands.md)
 {% endcontent-ref %}
+
+{% embed url="https://www.linuxtechi.com/assign-static-ip-address-ubuntu-20-04-lts" %}

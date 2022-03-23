@@ -23,43 +23,9 @@
     * [Kiosk Command List](raspberry-pi/raspberry-pi/kiosk-mode/command-list.md)
   * [RTC](raspberry-pi/raspberry-pi/rtc.md)
 
-## ESP32/8266 <a href="#esp32-8266-1" id="esp32-8266-1"></a>
-
-* [ESPTOOL](esp32-8266-1/esptool.md)
-* [ESP MQTT](esp32-8266-1/esp-mqtt.md)
-* [Untitled](esp32-8266-1/untitled.md)
-
-## 3D Printing
-
-* [Klipper](3d-printing/klipper.md)
-* [Input Shaper](3d-printing/input-shaper.md)
-* [CAD](3d-printing/cad.md)
-* [Non-Ender 3 Pro](3d-printing/non-ender-3-pro/README.md)
-  * [Electronics Design](3d-printing/non-ender-3-pro/electronics-design/README.md)
-    * [SKR-V1.3](3d-printing/non-ender-3-pro/electronics-design/skr-v1.3.md)
-    * [Inductive Probe](3d-printing/non-ender-3-pro/electronics-design/inductive-probe/README.md)
-      * [Voron Design SKR 1.3 Setup Guided](3d-printing/non-ender-3-pro/electronics-design/inductive-probe/untitled.md)
-  * [printer.cfg](3d-printing/non-ender-3-pro/printer.cfg/README.md)
-    * [3.19.21](3d-printing/non-ender-3-pro/printer.cfg/3.19.21.md)
-* [Voron](3d-printing/untitled/README.md)
-  * [Switchwire](3d-printing/untitled/switchwire.md)
-  * [V2.4](3d-printing/untitled/v2.4.md)
-  * [Afterburner PCB](3d-printing/untitled/afterburner-pcb.md)
-  * [Galileo](3d-printing/untitled/galileo.md)
-  * [Enraged Rabbit](3d-printing/untitled/enraged-rabbit.md)
-  * [Nevermore](3d-printing/untitled/nevermore.md)
-  * [Links](3d-printing/untitled/links.md)
-
-## Alamods
-
-* [Alamods](alamods/alamods-1/README.md)
-  * [Serial Interface Commands](alamods/alamods-1/serial-interface-commands.md)
-  * [PCB Testing](alamods/alamods-1/pcb-testing.md)
-
 ## Programming
 
 * [Programming](programming/programming-1/README.md)
-  * [Ubuntu](programming/programming-1/ubuntu.md)
   * [mySQL](programming/programming-1/mysql/README.md)
     * [Replication](programming/programming-1/mysql/replication.md)
     * [Reference](programming/programming-1/mysql/reference.md)
@@ -92,35 +58,9 @@
       * [Updating your published package version number](programming/programming-1/npm/npm-package/updating-your-published-package-version-number.md)
       * [About semantic versioning](programming/programming-1/npm/npm-package/about-semantic-versioning.md)
       * [Tutorial Reference](programming/programming-1/npm/npm-package/tutorial-reference.md)
-
-## Projects
-
-* [Projects](projects/projects-1/README.md)
-  * [Work](projects/projects-1/work/README.md)
-    * [RGB DLED](projects/projects-1/work/rgb-dled.md)
-    * [Camera Inspection](projects/projects-1/work/untitled.md)
-  * [Home](projects/projects-1/home/README.md)
-    * [Maps App](projects/projects-1/home/maps-app.md)
-    * [Magic Mirror](projects/projects-1/home/magic-mirror/README.md)
-      * [index](projects/projects-1/home/magic-mirror/untitled.md)
-
-***
-
-* [STPM API Document V1.0](stpm-api-document-v1.0.md)
-* [STPM API Document V1.1](stpm-api-document-v1.1.md)
-* [STPM API Document V1.2](stpm-api-document-v1.2.md)
-* [Larry Documentation](larry-documentation.md)
-
-## PR21472
-
-* [Page 1](pr21472/page-1.md)
-
-***
-
-* [PM2](pm2.md)
-* [arduino cli](arduino-cli.md)
-* [Stats](stats.md)
-* [Semver](semver.md)
+  * [Larry Documentation](programming/programming-1/larry-documentation.md)
+  * [Semver](programming/programming-1/semver.md)
+  * [PM2](programming/programming-1/pm2.md)
 
 ## Homelab
 
@@ -129,5 +69,64 @@
   * [Docker & Docker Compose](homelab/services/docker-and-docker-compose.md)
   * [Uptime Kuma](homelab/services/uptime-kuma.md)
   * [Heimdall Dashboard](homelab/services/heimdall-dashboard.md)
+  * [MySQL on Ubuntu 20.04](homelab/services/mysql-on-ubuntu-20.04/README.md)
+    * [How To Allow Remote Access to MySQL](homelab/services/mysql-on-ubuntu-20.04/how-to-allow-remote-access-to-mysql.md)
+  * [Nginx on Ubuntu 20.04](homelab/services/nginx-on-ubuntu-20.04.md)
 * [Reference](homelab/reference/README.md)
   * [UFW Essentials: Common Firewall Rules and Commands](homelab/reference/ufw-essentials-common-firewall-rules-and-commands.md)
+
+## Projects
+
+* [Projects](projects/projects-1/README.md)
+  * [Home](projects/projects-1/home/README.md)
+    * [Maps App](projects/projects-1/home/maps-app.md)
+    * [Magic Mirror](projects/projects-1/home/magic-mirror/README.md)
+      * [index](projects/projects-1/home/magic-mirror/untitled.md)
+  * [Work](projects/projects-1/work/README.md)
+    * [Camera Inspection](projects/projects-1/work/untitled.md)
+    * [RGB DLED](projects/projects-1/work/rgb-dled.md)
+
+## 3D Printing
+
+* [Klipper](3d-printing/klipper.md)
+* [Input Shaper](3d-printing/input-shaper.md)
+* [CAD](3d-printing/cad.md)
+* [Non-Ender 3 Pro](3d-printing/non-ender-3-pro/README.md)
+  * [Electronics Design](3d-printing/non-ender-3-pro/electronics-design/README.md)
+    * [SKR-V1.3](3d-printing/non-ender-3-pro/electronics-design/skr-v1.3.md)
+    * [Inductive Probe](3d-printing/non-ender-3-pro/electronics-design/inductive-probe/README.md)
+      * [Voron Design SKR 1.3 Setup Guided](3d-printing/non-ender-3-pro/electronics-design/inductive-probe/untitled.md)
+  * [printer.cfg](3d-printing/non-ender-3-pro/printer.cfg/README.md)
+    * [3.19.21](3d-printing/non-ender-3-pro/printer.cfg/3.19.21.md)
+* [Voron](3d-printing/untitled/README.md)
+  * [Switchwire](3d-printing/untitled/switchwire.md)
+  * [V2.4](3d-printing/untitled/v2.4.md)
+  * [Afterburner PCB](3d-printing/untitled/afterburner-pcb.md)
+  * [Galileo](3d-printing/untitled/galileo.md)
+  * [Enraged Rabbit](3d-printing/untitled/enraged-rabbit.md)
+  * [Nevermore](3d-printing/untitled/nevermore.md)
+  * [Links](3d-printing/untitled/links.md)
+
+## ESP32/8266 <a href="#esp32-8266-1" id="esp32-8266-1"></a>
+
+* [ESPTOOL](esp32-8266-1/esptool.md)
+* [ESP MQTT](esp32-8266-1/esp-mqtt.md)
+
+## Alamods
+
+* [Alamods](alamods/alamods-1/README.md)
+  * [STPM API](alamods/alamods-1/stpm-api/README.md)
+    * [STPM API Document V1.0](alamods/alamods-1/stpm-api/stpm-api-document-v1.0.md)
+    * [STPM API Document V1.1](alamods/alamods-1/stpm-api/stpm-api-document-v1.1.md)
+    * [STPM API Document V1.2](alamods/alamods-1/stpm-api/stpm-api-document-v1.2.md)
+  * [Serial Interface Commands](alamods/alamods-1/serial-interface-commands.md)
+  * [PCB Testing](alamods/alamods-1/pcb-testing.md)
+
+## PR21472
+
+* [Page 1](pr21472/page-1.md)
+
+***
+
+* [arduino cli](arduino-cli.md)
+* [Quality Statistics](quality-statistics.md)
