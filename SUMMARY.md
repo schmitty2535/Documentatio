@@ -129,4 +129,4 @@
   * [Docker & Docker Compose](homelab/services/docker-and-docker-compose.md)
   * [Uptime Kuma](homelab/services/uptime-kuma.md)
   * [Heimdall Dashboard](homelab/services/heimdall-dashboard.md)
-* [Page 3](homelab/page-3.md)
+* [Reference](homelab/reference.md)
