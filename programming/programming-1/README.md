@@ -19,3 +19,5 @@
 {% embed url="https://blisk.io/devices/details/ipad-pro-11-(2021)" %}
 
 {% embed url="https://www.google.com/search?aqs=chrome.0.69i59j69i57j0i131i433i512j0i512l4j69i60.2387j0j7&ie=UTF-8&oq=ipad+pro+11&q=ipad+pro+11+resolution&rlz=1C1ONGR_enUS982US982&sourceid=chrome" %}
+
+{% embed url="https://www.cyberciti.biz/faq/how-to-check-os-version-in-linux-command-line" %}

@@ -84,6 +84,7 @@
 
 * [Projects](projects/projects-1/README.md)
   * [Home](projects/projects-1/home/README.md)
+    * [Smart Power Strip](projects/projects-1/home/smart-power-strip.md)
     * [Maps App](projects/projects-1/home/maps-app.md)
     * [Magic Mirror](projects/projects-1/home/magic-mirror/README.md)
       * [index](projects/projects-1/home/magic-mirror/untitled.md)

@@ -1,5 +1,9 @@
 # NUT (Network UPS Tool)
 
+{% embed url="https://www.npmjs.com/package/node-nut" %}
+
+###
+
 ### Documentation Site/Homepage
 
 {% embed url="https://networkupstools.org/documentation.html" %}
