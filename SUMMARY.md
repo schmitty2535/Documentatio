@@ -5,7 +5,6 @@
 ## Raspberry Pi
 
 * [Raspberry Pi](raspberry-pi/raspberry-pi/README.md)
-  * [Page 2](raspberry-pi/raspberry-pi/page-2.md)
   * [Pins](raspberry-pi/raspberry-pi/pins.md)
   * [Build an MQTT Server Using Raspberry Pi](raspberry-pi/raspberry-pi/build-an-mqtt-server-using-raspberry-pi.md)
   * [Static IP](raspberry-pi/raspberry-pi/static-ip.md)
@@ -61,11 +60,15 @@
   * [Larry Documentation](programming/programming-1/larry-documentation.md)
   * [Semver](programming/programming-1/semver.md)
   * [PM2](programming/programming-1/pm2.md)
+  * [Nodejs Overview](programming/programming-1/nodejs-overview.md)
 
 ## Homelab
 
 * [Upcoming projects](homelab/upcoming-projects.md)
 * [Services](homelab/services/README.md)
+  * [Page 2](homelab/services/page-2.md)
+  * [NUT (Network UPS Tool)](homelab/services/nut-network-ups-tool.md)
+  * [Pi-Hole](homelab/services/pi-hole.md)
   * [Docker & Docker Compose](homelab/services/docker-and-docker-compose.md)
   * [Uptime Kuma](homelab/services/uptime-kuma.md)
   * [Heimdall Dashboard](homelab/services/heimdall-dashboard.md)
@@ -74,6 +77,8 @@
   * [Nginx on Ubuntu 20.04](homelab/services/nginx-on-ubuntu-20.04.md)
 * [Reference](homelab/reference/README.md)
   * [UFW Essentials: Common Firewall Rules and Commands](homelab/reference/ufw-essentials-common-firewall-rules-and-commands.md)
+  * [How To Install Node.js on Ubuntu 20.04 With NVM](homelab/reference/how-to-install-node.js-on-ubuntu-20.04-with-nvm.md)
+* [Interesting Open Source Projects](homelab/interesting-open-source-projects.md)
 
 ## Projects
 
