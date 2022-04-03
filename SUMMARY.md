@@ -78,6 +78,7 @@
 * [Reference](homelab/reference/README.md)
   * [UFW Essentials: Common Firewall Rules and Commands](homelab/reference/ufw-essentials-common-firewall-rules-and-commands.md)
   * [How To Install Node.js on Ubuntu 20.04 With NVM](homelab/reference/how-to-install-node.js-on-ubuntu-20.04-with-nvm.md)
+  * [How to use HTTPS for local development](homelab/reference/how-to-use-https-for-local-development.md)
 * [Interesting Open Source Projects](homelab/interesting-open-source-projects.md)
 
 ## Projects
