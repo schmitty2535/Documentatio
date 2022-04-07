@@ -332,3 +332,9 @@ objDiv.scrollTop = objDiv.scrollHeight;
 {% embed url="https://medium.com/front-end-weekly/how-to-convert-24-hours-format-to-12-hours-in-javascript-ca19dfd7419d" %}
 
 {% embed url="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/sort" %}
+
+{% embed url="https://stackoverflow.com/questions/38619762/how-to-prevent-ios-keyboard-from-pushing-the-view-off-screen-with-css-or-js" %}
+
+{% embed url="https://developer.mozilla.org/en-US/docs/Learn/Forms/Form_validation" %}
+
+{% embed url="https://stackoverflow.com/questions/37465458/input-text-field-with-only-bottom-border" %}

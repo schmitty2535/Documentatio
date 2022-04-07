@@ -6,3 +6,10 @@
 
 {% embed url="https://grafana.com/logs" %}
 
+example GitHub
+
+{% embed url="https://github.com/timothystewart6/timothystewart6/blob/master/README.md" %}
+
+Example Html Terminal
+
+{% embed url="https://nuwit.ccs.neu.edu" %}
