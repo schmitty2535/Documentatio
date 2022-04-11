@@ -338,3 +338,9 @@ objDiv.scrollTop = objDiv.scrollHeight;
 {% embed url="https://developer.mozilla.org/en-US/docs/Learn/Forms/Form_validation" %}
 
 {% embed url="https://stackoverflow.com/questions/37465458/input-text-field-with-only-bottom-border" %}
+
+{% embed url="https://developer.mozilla.org/en-US/docs/Web/CSS/fit-content" %}
+
+{% embed url="https://ianlunn.github.io/Hover" %}
+
+{% embed url="https://www.minimamente.com/project/magic" %}

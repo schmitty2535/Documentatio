@@ -5,6 +5,7 @@
 ## Raspberry Pi
 
 * [Raspberry Pi](raspberry-pi/raspberry-pi/README.md)
+  * [P5.js](raspberry-pi/raspberry-pi/p5.js.md)
   * [Pins](raspberry-pi/raspberry-pi/pins.md)
   * [Build an MQTT Server Using Raspberry Pi](raspberry-pi/raspberry-pi/build-an-mqtt-server-using-raspberry-pi.md)
   * [Static IP](raspberry-pi/raspberry-pi/static-ip.md)
@@ -42,6 +43,7 @@
   * [Javascript/HTML Reference](programming/programming-1/javascript-html-reference/README.md)
     * [Classes](programming/programming-1/javascript-html-reference/classes.md)
     * [Reference](programming/programming-1/javascript-html-reference/reference/README.md)
+      * [html help](programming/programming-1/javascript-html-reference/reference/html-help.md)
       * [Promises](programming/programming-1/javascript-html-reference/reference/promises.md)
       * [Javascript Prototype](programming/programming-1/javascript-html-reference/reference/javascript-prototype.md)
       * [Object() constructor - JavaScript | MDN](programming/programming-1/javascript-html-reference/reference/untitled-1.md)

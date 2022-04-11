@@ -167,3 +167,5 @@ Where NUM is the rule numbered. For example, ufw delete 5,would remove the fifth
 {% endcontent-ref %}
 
 {% embed url="https://www.linuxtechi.com/assign-static-ip-address-ubuntu-20-04-lts" %}
+
+{% embed url="https://linuxconfig.org/how-to-open-allow-incoming-firewall-port-on-ubuntu-20-04-focal-fossa" %}
