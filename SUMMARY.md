@@ -63,6 +63,7 @@
   * [Semver](programming/programming-1/semver.md)
   * [Nodejs Overview](programming/programming-1/nodejs-overview.md)
   * [PM2](programming/programming-1/pm2.md)
+  * [Socket.io](programming/programming-1/socket.io.md)
 
 ## Homelab
 
