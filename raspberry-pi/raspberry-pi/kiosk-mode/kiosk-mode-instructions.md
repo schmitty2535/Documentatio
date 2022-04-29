@@ -18,7 +18,7 @@ Allowing VNC enables you to remotely access your raspberry pi from another compu
 Install xdotool and unclutter, xdotool: This tool will allow our bash script to execute key presses without anyone being on the device. Unclutter: This will enable us to hide the mouse from the display.
 {% endhint %}
 
-**5.** Create your kiosk bash script by running the following `nano /home/pi/kiosk.sh`Then copy and paste the following lines into the script file, and change "[https://google.com](https://google.com)" (located in the last line) to the web address of the page you wish to open on boot.&#x20;
+**5.** Create your kiosk bash script by running the following `sudo nano /home/pi/kiosk.sh`Then copy and paste the following lines into the script file, and change "[https://google.com](https://google.com)" (located in the last line) to the web address of the page you wish to open on boot.&#x20;
 
 {% code title="kiosk.sh" %}
 ```bash
