@@ -142,3 +142,4 @@
 * [arduino cli](arduino-cli.md)
 * [Quality Statistics](quality-statistics.md)
 * [CSS-Tricks](css-tricks.md)
+* [Vue 2](vue-2.md)

@@ -344,3 +344,12 @@ objDiv.scrollTop = objDiv.scrollHeight;
 {% embed url="https://ianlunn.github.io/Hover" %}
 
 {% embed url="https://www.minimamente.com/project/magic" %}
+
+{% embed url="https://stackoverflow.com/questions/13650534/how-to-select-line-of-text-in-textarea" %}
+
+{% embed url="https://www.w3schools.com/jsref/jsref_split.asp" %}
+
+{% embed url="https://stackoverflow.com/questions/7764319/how-to-remove-duplicate-white-spaces-in-a-string" %}
+
+{% embed url="https://www.compart.com/en/unicode/U+2514" %}
+
