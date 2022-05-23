@@ -4,9 +4,13 @@
 
 {% embed url="https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Text/Wrapping_Text" %}
 
+### Styling Lists
 
+{% embed url="https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Styling_lists" %}
 
+### Image Compressor Tool
 
+{% embed url="https://compressor.io/" %}
 
 
 

@@ -23,3 +23,8 @@
 {% embed url="https://www.cyberciti.biz/faq/how-to-check-os-version-in-linux-command-line" %}
 
 {% embed url="https://drawingwithnumbers.artisart.org/tag/julian-dates#:~:text=There%20are%20two%20formats%20of,is%202000%2C%20and%20so%20on." %}
+
+{% embed url="https://madewithvuejs.com/?page=2" %}
+
+{% embed url="https://carbon.now.sh/" %}
+

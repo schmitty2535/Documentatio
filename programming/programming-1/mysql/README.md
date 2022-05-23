@@ -12,3 +12,4 @@ use update instead of insert into where (because where cannot be used in this ca
 
 {% embed url="https://www.sqltutorial.org/sql-list-all-tables" %}
 
+{% embed url="https://www.digitalocean.com/community/tutorials/how-to-set-up-a-remote-database-to-optimize-site-performance-with-mysql-on-ubuntu-18-04" %}

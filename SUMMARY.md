@@ -5,6 +5,7 @@
 ## Raspberry Pi
 
 * [Raspberry Pi](raspberry-pi/raspberry-pi/README.md)
+  * [USB Drives](raspberry-pi/raspberry-pi/usb-drives.md)
   * [P5.js](raspberry-pi/raspberry-pi/p5.js.md)
   * [Pins](raspberry-pi/raspberry-pi/pins.md)
   * [Build an MQTT Server Using Raspberry Pi](raspberry-pi/raspberry-pi/build-an-mqtt-server-using-raspberry-pi.md)
@@ -52,6 +53,7 @@
       * [Object() constructor - JavaScript | MDN](programming/programming-1/javascript-html-reference/reference/untitled-1.md)
       * [How to Use Object Destructuring in JavaScript](programming/programming-1/javascript-html-reference/reference/untitled.md)
   * [NPM](programming/programming-1/npm/README.md)
+    * [Winston Logger](programming/programming-1/npm/winston-logger.md)
     * [System Info/Wireless Info](programming/programming-1/npm/system-info-wireless-info.md)
     * [NPM Packages](programming/programming-1/npm/npm-packages/README.md)
       * [List of NPM packages](programming/programming-1/npm/npm-packages/list-of-npm-packages.md)
@@ -67,6 +69,10 @@
   * [Nodejs Overview](programming/programming-1/nodejs-overview.md)
   * [PM2](programming/programming-1/pm2.md)
   * [Socket.io](programming/programming-1/socket.io.md)
+  * [JavaScript](programming/programming-1/javascript/README.md)
+    * [Node SMB Network Drive](programming/programming-1/javascript/node-smb-network-drive.md)
+    * [Style Guide](programming/programming-1/javascript/style-guide.md)
+    * [FS](programming/programming-1/javascript/fs.md)
 
 ## Homelab
 
@@ -98,6 +104,7 @@
   * [Work](projects/projects-1/work/README.md)
     * [Camera Inspection](projects/projects-1/work/untitled.md)
     * [RGB DLED](projects/projects-1/work/rgb-dled.md)
+    * [Wide Band Possitioning](projects/projects-1/work/wide-band-possitioning.md)
 
 ## 3D Printing
 

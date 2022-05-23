@@ -281,3 +281,7 @@ Documentation can be found at https://github.com/IonicaBizau/idea
 
 {% embed url="https://nodejs.org/api/os.html" %}
 
+{% embed url="https://www.npmjs.com/package/onoff" %}
+
+{% embed url="https://www.npmjs.com/package/log-symbols" %}
+
