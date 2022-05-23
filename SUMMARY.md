@@ -42,6 +42,8 @@
       * [index](programming/programming-1/html/color-wheel/untitled-3.md)
       * [Advanced](programming/programming-1/html/color-wheel/advanced.md)
   * [Javascript/HTML Reference](programming/programming-1/javascript-html-reference/README.md)
+    * [HTML](programming/programming-1/javascript-html-reference/html.md)
+    * [CSS](programming/programming-1/javascript-html-reference/css.md)
     * [Classes](programming/programming-1/javascript-html-reference/classes.md)
     * [Reference](programming/programming-1/javascript-html-reference/reference/README.md)
       * [html help](programming/programming-1/javascript-html-reference/reference/html-help.md)
