@@ -2,7 +2,7 @@
 
 #### Introduction <a href="#introduction" id="introduction"></a>
 
-[Nginx](https://www.nginx.com) is one of the most popular web servers in the world and is responsible for hosting some of the largest and highest-traffic sites on the internet. It is a lightweight choice that can be used as either a web server or reverse proxy.
+[Nginx](https://www.nginx.com/) is one of the most popular web servers in the world and is responsible for hosting some of the largest and highest-traffic sites on the internet. It is a lightweight choice that can be used as either a web server or reverse proxy.
 
 In this guide, we’ll discuss how to install Nginx on your Ubuntu 20.04 server, adjust the firewall, manage the Nginx process, and set up server blocks for hosting more than one domain from a single server.
 
@@ -105,7 +105,7 @@ Output● nginx.service - A high performance web server and a reverse proxy serv
 
 As confirmed by this out, the service has started successfully. However, the best way to test this is to actually request a page from Nginx.
 
-You can access the default Nginx landing page to confirm that the software is running properly by navigating to your server’s IP address. If you do not know your server’s IP address, you can find it by using the [icanhazip.com](http://icanhazip.com) tool, which will give you your public IP address as received from another location on the internet:
+You can access the default Nginx landing page to confirm that the software is running properly by navigating to your server’s IP address. If you do not know your server’s IP address, you can find it by using the [icanhazip.com](http://icanhazip.com/) tool, which will give you your public IP address as received from another location on the internet:
 
 ```
 curl -4 icanhazip.com

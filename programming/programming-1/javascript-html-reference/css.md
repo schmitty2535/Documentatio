@@ -32,7 +32,9 @@
 
 {% embed url="https://ui8.net/luciyamaji/products/50-animated-loaders?rel=pro21" %}
 
+### Background Blur
 
+{% embed url="https://blog.prototypr.io/how-to-make-a-background-blur-in-css-with-one-line-of-code-e446c7236e60" %}
 
 
 

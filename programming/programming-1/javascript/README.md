@@ -18,3 +18,15 @@
 
 {% embed url="https://pietschsoft.com/post/2019/07/24/call-functions-in-javascript" %}
 
+### Memoization
+
+{% embed url="https://www.freecodecamp.org/news/memoization-in-javascript-and-react/" %}
+
+### Execute Function Immediately On Declaration
+
+{% embed url="https://stackoverflow.com/questions/6404196/can-i-name-a-javascript-function-and-execute-it-immediately" %}
+
+
+
+
+

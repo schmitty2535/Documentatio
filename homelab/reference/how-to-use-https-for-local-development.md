@@ -50,7 +50,7 @@ mkcert (and similar tools) provide several benefits:
 
 mkcert is the tool we recommend for creating a TLS certificate for local development. You can check out [other options](broken-reference) too.
 
-Many operating systems may include libraries to produce certificates, such as [openssl](https://www.openssl.org). Unlike mkcert and similar tools, such libraries may not consistently produce correct certificates, may require complex commands to be run, and are not necessarily cross-platform.
+Many operating systems may include libraries to produce certificates, such as [openssl](https://www.openssl.org/). Unlike mkcert and similar tools, such libraries may not consistently produce correct certificates, may require complex commands to be run, and are not necessarily cross-platform.
 
 #### Caution [#](broken-reference) <a href="#caution" id="caution"></a>
 
@@ -219,7 +219,7 @@ A few things to keep in mind if you're considering using these techniques:
 
 #### Reverse proxy [#](broken-reference) <a href="#reverse-proxy" id="reverse-proxy"></a>
 
-Another option to access a locally running site with HTTPS is to use a [reverse proxy](https://en.wikipedia.org/wiki/Reverse\_proxy) such as [ngrok](https://ngrok.com).
+Another option to access a locally running site with HTTPS is to use a [reverse proxy](https://en.wikipedia.org/wiki/Reverse\_proxy) such as [ngrok](https://ngrok.com/).
 
 A few points to consider:
 

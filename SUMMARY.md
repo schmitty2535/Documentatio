@@ -43,6 +43,7 @@
       * [index](programming/programming-1/html/color-wheel/untitled-3.md)
       * [Advanced](programming/programming-1/html/color-wheel/advanced.md)
   * [Javascript/HTML Reference](programming/programming-1/javascript-html-reference/README.md)
+    * [Images](programming/programming-1/javascript-html-reference/images.md)
     * [HTML](programming/programming-1/javascript-html-reference/html.md)
     * [CSS](programming/programming-1/javascript-html-reference/css.md)
     * [Classes](programming/programming-1/javascript-html-reference/classes.md)
@@ -73,6 +74,7 @@
     * [Node SMB Network Drive](programming/programming-1/javascript/node-smb-network-drive.md)
     * [Style Guide](programming/programming-1/javascript/style-guide.md)
     * [FS](programming/programming-1/javascript/fs.md)
+  * [Vue 2](programming/programming-1/vue-2.md)
 
 ## Homelab
 
@@ -102,6 +104,7 @@
     * [Magic Mirror](projects/projects-1/home/magic-mirror/README.md)
       * [index](projects/projects-1/home/magic-mirror/untitled.md)
   * [Work](projects/projects-1/work/README.md)
+    * [Fanuc Robot](projects/projects-1/work/fanuc-robot.md)
     * [Camera Inspection](projects/projects-1/work/untitled.md)
     * [RGB DLED](projects/projects-1/work/rgb-dled.md)
     * [Wide Band Possitioning](projects/projects-1/work/wide-band-possitioning.md)
@@ -151,4 +154,3 @@
 * [arduino cli](arduino-cli.md)
 * [Quality Statistics](quality-statistics.md)
 * [CSS-Tricks](css-tricks.md)
-* [Vue 2](vue-2.md)

@@ -2,7 +2,7 @@
 
 #### Introduction <a href="#introduction" id="introduction"></a>
 
-[Node.js](https://nodejs.org) is a JavaScript runtime for server-side programming. It allows developers to create scalable backend functionality using JavaScript, a language many are already familiar with from browser-based web development.
+[Node.js](https://nodejs.org/) is a JavaScript runtime for server-side programming. It allows developers to create scalable backend functionality using JavaScript, a language many are already familiar with from browser-based web development.
 
 In this guide, we will show you three different ways of getting Node.js installed on an Ubuntu 20.04 server:
 
