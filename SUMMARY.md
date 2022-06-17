@@ -16,6 +16,7 @@
   * [CM4 Setup](raspberry-pi/raspberry-pi/cm4-setup.md)
   * [PM2](raspberry-pi/raspberry-pi/pm2.md)
   * [Startup Script](raspberry-pi/raspberry-pi/startup-script.md)
+  * [Systemd Services](raspberry-pi/raspberry-pi/systemd-services.md)
   * [Display Rotation](raspberry-pi/raspberry-pi/display-rotation.md)
   * [Raspberry Pi Display](raspberry-pi/raspberry-pi/raspberry-pi-display.md)
   * [Sleep Prevention](raspberry-pi/raspberry-pi/sleep-prevention.md)
@@ -27,6 +28,9 @@
 ## Programming
 
 * [Programming](programming/programming-1/README.md)
+  * [MQTT](programming/programming-1/mqtt/README.md)
+    * [MQTT References](programming/programming-1/mqtt/mqtt-references.md)
+    * [MQTT Local And Remote Setup for App Services System](programming/programming-1/mqtt/mqtt-local-and-remote-setup-for-app-services-system.md)
   * [mySQL](programming/programming-1/mysql/README.md)
     * [Replication](programming/programming-1/mysql/replication.md)
     * [Reference](programming/programming-1/mysql/reference.md)
