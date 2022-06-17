@@ -1,6 +1,13 @@
+---
+description: >-
+  This tutorial is to create two mqtt broker ports, standard port 1883 is for
+  unauthenticated localhost communications while port 8883 is used for
+  authenticated remote connections
+---
+
 # MQTT Local And Remote Setup for App Services System
 
-### mosquitto.conf
+### &#x20;mosquitto.conf
 
 1.  Run the following command to edit the mosquitto.conf file
 
