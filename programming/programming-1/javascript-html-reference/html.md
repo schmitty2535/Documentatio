@@ -19,3 +19,10 @@
 
 
 {% embed url="https://stackoverflow.com/questions/11438910/how-to-display-items-side-by-side-without-using-tables" %}
+
+
+
+{% embed url="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/form" %}
+
+{% embed url="https://www.w3schools.com/tags/att_input_disabled.asp" %}
+
