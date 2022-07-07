@@ -6,5 +6,5 @@
 
 {% embed url="https://docs.npmjs.com/cli/v7/commands" %}
 
-
+{% embed url="https://docs.npmjs.com/updating-packages-downloaded-from-the-registry" %}
 

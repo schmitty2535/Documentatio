@@ -353,3 +353,5 @@ objDiv.scrollTop = objDiv.scrollHeight;
 
 {% embed url="https://www.compart.com/en/unicode/U+2514" %}
 
+{% embed url="https://webdesign.tutsplus.com/articles/best-practices-for-responsive-dropdown-menus--cms-35212" %}
+

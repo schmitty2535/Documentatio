@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Table of Contents](README.md)
+* [Tutorials to go through](tutorials-to-go-through.md)
 
 ## Raspberry Pi
 
@@ -71,6 +72,7 @@
       * [Tutorial Reference](programming/programming-1/npm/npm-package/tutorial-reference.md)
   * [Larry Documentation](programming/programming-1/larry-documentation.md)
   * [Semver](programming/programming-1/semver.md)
+  * [Nodejs](programming/programming-1/nodejs.md)
   * [Nodejs Overview](programming/programming-1/nodejs-overview.md)
   * [PM2](programming/programming-1/pm2.md)
   * [Socket.io](programming/programming-1/socket.io.md)
@@ -79,6 +81,7 @@
     * [Style Guide](programming/programming-1/javascript/style-guide.md)
     * [FS](programming/programming-1/javascript/fs.md)
   * [Vue 2](programming/programming-1/vue-2.md)
+  * [GitHub](programming/programming-1/github.md)
 
 ## Homelab
 

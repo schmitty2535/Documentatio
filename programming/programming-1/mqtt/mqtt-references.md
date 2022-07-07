@@ -24,3 +24,11 @@
 
 {% embed url="https://www.emqx.com/en/blog/mqtt-js-tutorial" %}
 
+
+
+{% embed url="https://unix.stackexchange.com/questions/451953/restart-mosquitto-unknown-operation-mosquitto" %}
+
+{% embed url="https://groups.google.com/g/mqtt/c/bDdSmQgNe74?pli=1" %}
+
+{% embed url="https://mosquitto.org/documentation/authentication-methods/" %}
+
