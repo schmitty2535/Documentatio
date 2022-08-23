@@ -2,6 +2,7 @@
 
 * [Table of Contents](README.md)
 * [Tutorials to go through](tutorials-to-go-through.md)
+* [Page 3](page-3.md)
 
 ## Raspberry Pi
 
@@ -48,6 +49,7 @@
       * [index](programming/programming-1/html/color-wheel/untitled-3.md)
       * [Advanced](programming/programming-1/html/color-wheel/advanced.md)
   * [Javascript/HTML Reference](programming/programming-1/javascript-html-reference/README.md)
+    * [TypeScript](programming/programming-1/javascript-html-reference/typescript.md)
     * [Images](programming/programming-1/javascript-html-reference/images.md)
     * [HTML](programming/programming-1/javascript-html-reference/html.md)
     * [CSS](programming/programming-1/javascript-html-reference/css.md)
