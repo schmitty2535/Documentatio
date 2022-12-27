@@ -105,6 +105,10 @@
   * [How to use HTTPS for local development](homelab/reference/how-to-use-https-for-local-development.md)
 * [Interesting Open Source Projects](homelab/interesting-open-source-projects.md)
 * [Unraid](homelab/unraid/README.md)
+  * [Cool Things/Tools](homelab/unraid/cool-things-tools.md)
+  * [VM Personal](homelab/unraid/vm-personal.md)
+  * [Page 4](homelab/unraid/page-4.md)
+  * [Fixes to Issues](homelab/unraid/fixes-to-issues.md)
   * [VM](homelab/unraid/vm.md)
 
 ## Projects
