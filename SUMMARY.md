@@ -30,6 +30,8 @@
 ## Programming
 
 * [Programming](programming/programming-1/README.md)
+  * [NMAP](programming/programming-1/nmap.md)
+  * [Browser](programming/programming-1/browser.md)
   * [Pushover Notification](programming/programming-1/pushover-notification.md)
   * [MQTT](programming/programming-1/mqtt/README.md)
     * [MQTT References](programming/programming-1/mqtt/mqtt-references.md)
@@ -104,12 +106,19 @@
   * [How To Install Node.js on Ubuntu 20.04 With NVM](homelab/reference/how-to-install-node.js-on-ubuntu-20.04-with-nvm.md)
   * [How to use HTTPS for local development](homelab/reference/how-to-use-https-for-local-development.md)
 * [Interesting Open Source Projects](homelab/interesting-open-source-projects.md)
-* [Unraid](homelab/unraid/README.md)
+* [UnRaid](homelab/unraid/README.md)
+  * [Official Documents](homelab/unraid/official-documents.md)
+  * [Plugins](homelab/unraid/plugins/README.md)
+    * [Docker Folders](homelab/unraid/plugins/docker-folders.md)
   * [Cool Things/Tools](homelab/unraid/cool-things-tools.md)
-  * [VM Personal](homelab/unraid/vm-personal.md)
+  * [UnRaid Hardware](homelab/unraid/unraid-hardware.md)
   * [Page 4](homelab/unraid/page-4.md)
   * [Fixes to Issues](homelab/unraid/fixes-to-issues.md)
   * [VM](homelab/unraid/vm.md)
+  * [Docker Containers](homelab/unraid/docker-containers/README.md)
+    * [Gotify](homelab/unraid/docker-containers/gotify.md)
+    * [Appsmith](homelab/unraid/docker-containers/appsmith.md)
+    * [FireflyIII](homelab/unraid/docker-containers/fireflyiii.md)
 
 ## Projects
 

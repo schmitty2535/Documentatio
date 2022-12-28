@@ -285,3 +285,19 @@ Documentation can be found at https://github.com/IonicaBizau/idea
 
 {% embed url="https://www.npmjs.com/package/log-symbols" %}
 
+{% embed url="https://www.npmjs.com/package/yup" %}
+
+{% embed url="https://www.npmjs.com/package/bcrypt" %}
+
+{% embed url="https://www.npmjs.com/package/commander" %}
+
+{% embed url="https://github.com/hexojs/warehouse" %}
+
+{% embed url="https://github.com/bevacqua/campaign" %}
+
+{% embed url="https://github.com/vadimdemedes/list-dir" %}
+
+{% embed url="https://github.com/axios/axios" %}
+
+{% embed url="https://github.com/kevva/download" %}
+

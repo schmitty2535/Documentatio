@@ -19,3 +19,11 @@ Kiosks tend to be deployed in a self-service environment which means the user of
 {% endcontent-ref %}
 
 Need to research [https://www.raspberrypi.org/forums/viewtopic.php?t=239087](https://www.raspberrypi.org/forums/viewtopic.php?t=239087)
+
+
+
+New fix install things on here [https://blog.r0b.io/post/minimal-rpi-kiosk/](https://blog.r0b.io/post/minimal-rpi-kiosk/)
+
+```bash
+sudo apt-get install --no-install-recommends xserver-xorg-video-all xserver-xorg-input-all xserver-xorg-core xinit x11-xserver-utils chromium-browser unclutter
+```

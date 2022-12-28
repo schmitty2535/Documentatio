@@ -28,3 +28,9 @@
 
 {% embed url="https://carbon.now.sh/" %}
 
+{% embed url="https://www.codecademy.com/article/getting-user-input-in-node-js" %}
+
+{% embed url="https://www.digicert.com/support/resources/faq/cryptography/how-does-a-public-private-key-pair-work" %}
+
+{% embed url="https://www.tilefy.me/" %}
+
